@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Who am I — Psychiatry</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=4" />
+</head>
+<body>
+  <header class="top">
+    <div class="k">Psychiatry</div>
+    <nav>
+      <a class="on" href="index.html">Who am I</a>
+      <a href="people.html">People</a>
+    </nav>
+  </header>
+  <div class="wrap">
+    <p class="k" id="modeLabel">Clue 1 of 3</p>
+    <h1>Who am I?</h1>
+    <p class="lead">Read one sentence and choose a name. Ask for another clue if you need it. The picture comes after you answer.</p>
+    <div class="row">
+      <button class="chip on" data-mode="clues">Clues first</button>
+      <button class="chip" data-mode="face">Portrait first</button>
+      <button class="chip" data-mode="type">Type the name</button>
+      <span class="stat" id="score">0 correct · 0 tried</span>
+    </div>
+    <div id="photoBox" style="display:none;margin:8px 0 16px"></div>
+    <div class="clue" id="clue"></div>
+    <div class="row">
+      <button class="btn" id="more">Another clue</button>
+      <button class="btn" id="skip">Skip</button>
+    </div>
+    <div class="opts" id="opts"></div>
+    <div id="typewrap" class="row" style="display:none">
+      <input id="typed" autocomplete="off" spellcheck="false" placeholder="Surname is enough" />
+      <button class="btn primary" id="say">Check</button>
+    </div>
+    <div class="reveal" id="reveal"></div>
+  </div>
+  <script src="people.js?v=4"></script>
+  <script>
+    const PEOPLE = window.WHO || [];
+    const $ = (id) => document.getElementById(id);
+    const state = { mode: "clues", i: 0, depth: 1, locked: false, ok: 0, n: 0, q: [] };
+
+    function shuffle(a){ const b=a.slice(); for(let i=b.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [b[i],b[j]]=[b[j],b[i]]; } return b; }
+    function norm(s){ return String(s||"").toLowerCase().replace(/[^a-z0-9 ]/g," ").replace(/\s+/g," ").trim(); }
+    function initials(p){ return p.name.split(/\s+/).filter(w=>/[A-Za-z]/.test(w)&&w.length>2).slice(0,2).map(w=>w[0]).join("") || "?"; }
+    function portrait(p){
+      if (p.has_photo) return '<img class="face" alt="'+p.name+'" src="'+p.img+'">';
+      return '<div class="mono" aria-hidden="true">'+initials(p)+'</div>';
+    }
+    function deal(){
+      const pool = state.mode==="face" ? PEOPLE.filter(p=>p.has_photo) : PEOPLE;
+      state.q = shuffle(pool);
+      state.i = 0; show();
+    }
+    function item(){ return state.q[state.i]; }
+    function show(){
+      const p = item();
+      if (!p){ $("clue").textContent = "That is the end of this set."; $("opts").innerHTML=""; return; }
+      state.depth = 1; state.locked = false;
+      $("reveal").classList.remove("show"); $("reveal").innerHTML = "";
+      $("opts").innerHTML = "";
+      $("more").disabled = false;
+      const box = $("photoBox");
+      if (state.mode==="face"){
+        box.style.display = "block";
+        box.innerHTML = portrait(p);
+        $("clue").textContent = "Who is this?";
+        $("modeLabel").textContent = "Portrait";
+      } else {
+        box.style.display = "none";
+        $("clue").textContent = p.clues[0];
+        $("modeLabel").textContent = "Clue 1 of " + p.clues.length;
+      }
+      if (state.mode==="type"){
+        $("typewrap").style.display = "flex";
+        $("typed").value = ""; $("typed").focus();
+      } else {
+        $("typewrap").style.display = "none";
+        const others = shuffle(PEOPLE.filter(x=>x.id!==p.id)).slice(0,3).map(x=>x.name);
+        shuffle([p.name].concat(others)).forEach((name, idx)=>{
+          const b = document.createElement("button");
+          b.className = "opt";
+          b.textContent = (idx+1) + ".  " + name;
+          b.onclick = ()=> grade(name);
+          $("opts").appendChild(b);
+        });
+      }
+      $("score").textContent = state.ok+" correct · "+state.n+" tried";
+    }
+    function more(){
+      const p = item(); if (!p || state.locked) return;
+      if (state.depth < p.clues.length){
+        state.depth++;
+        $("clue").textContent = p.clues[state.depth - 1];
+        $("modeLabel").textContent = "Clue " + state.depth + " of " + p.clues.length;
+      }
+      if (state.depth >= p.clues.length) $("more").disabled = true;
+    }
+    function grade(raw){
+      const p = item(); if (!p || state.locked) return;
+      state.locked = true; state.n++;
+      const last = p.name.split(" ").pop();
+      const ok = norm(raw).includes(norm(last)) || norm(p.name).includes(norm(raw)) || norm(raw)===norm(p.name);
+      if (ok) state.ok++;
+      document.querySelectorAll(".opt").forEach(b=>{
+        if (b.textContent.indexOf(p.name)!==-1) b.classList.add("good");
+        else if (raw && b.textContent.indexOf(raw)!==-1 && !ok) b.classList.add("bad");
+      });
+      $("reveal").className = "reveal show";
+      $("reveal").innerHTML =
+        portrait(p)+
+        '<div><p class="k">'+(ok?"Correct":"Not this time")+'</p>'+
+        '<h2 style="font-family:\'Source Serif 4\',Georgia,serif;font-size:28px;font-weight:600;margin:4px 0">'+p.name+' <span class="muted" style="font-size:16px">'+p.years+'</span></h2>'+
+        '<p class="hold">'+p.one+'</p>'+
+        '<p class="muted">'+p.also+'</p>'+
+        (p.wiki ? '<p class="credit">Portrait from Wikimedia Commons when shown. <a href="'+p.wiki+'" target="_blank" rel="noopener">Read more</a></p>' :
+          '<p class="credit">No free public photograph, so initials are used.</p>')+
+        '<div class="row"><button class="btn primary" id="nxt">Next</button><a class="btn" href="people.html#'+p.id+'">Open card</a></div></div>';
+      document.getElementById("nxt").onclick = next;
+      $("score").textContent = state.ok+" correct · "+state.n+" tried";
+    }
+    function next(){ state.i++; show(); }
+    document.querySelectorAll("[data-mode]").forEach(b=>{
+      b.onclick = ()=>{
+        document.querySelectorAll("[data-mode]").forEach(x=>x.classList.remove("on"));
+        b.classList.add("on");
+        state.mode = b.dataset.mode;
+        deal();
+      };
+    });
+    $("more").onclick = more;
+    $("skip").onclick = next;
+    $("say").onclick = ()=> grade($("typed").value);
+    $("typed").addEventListener("keydown", e=>{ if(e.key==="Enter"){ e.preventDefault(); if(state.locked) next(); else grade($("typed").value);} });
+    document.addEventListener("keydown", e=>{
+      if (e.target.tagName==="INPUT") return;
+      if (e.key==="n" || e.key==="N" || e.key==="Enter") { if(state.locked) next(); }
+      if (e.key==="h" || e.key==="H") more();
+      if (["1","2","3","4"].includes(e.key) && !state.locked){
+        const btns = [...document.querySelectorAll(".opt")];
+        if (btns[+e.key-1]) btns[+e.key-1].click();
+      }
+    });
+    deal();
+  </script>
+</body>
+</html>

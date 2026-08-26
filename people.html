@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>People — Psychiatry</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=4" />
+</head>
+<body>
+  <header class="top">
+    <div class="k">Psychiatry</div>
+    <nav>
+      <a href="index.html">Who am I</a>
+      <a class="on" href="people.html">People</a>
+    </nav>
+  </header>
+  <div class="wrap people-wrap">
+    <h1>People</h1>
+    <p class="lead">Short cards on names that come up in a psychiatry quiz. Search a person or an idea. A portrait is shown only when a free public photograph exists.</p>
+    <div class="row">
+      <input id="q" placeholder="Search — Beck, lithium, autism, Pavlov" />
+      <span class="stat" id="count"></span>
+    </div>
+    <div class="row" id="eras"></div>
+    <article class="detail" id="detail"></article>
+    <div class="grid" id="grid"></div>
+    <p class="credit" style="margin-top:28px">Notes are adapted from public encyclopedic summaries for study. Portraits from Wikimedia Commons. Not clinical advice.</p>
+  </div>
+  <script src="people.js?v=4"></script>
+  <script>
+    const PEOPLE = window.WHO || [];
+    const labels = [...new Set(PEOPLE.map(p => p.era))].sort();
+    let era = "all", q = "";
+
+    function initials(p){ return p.name.split(/\s+/).filter(w=>w.length>2).slice(0,2).map(w=>w[0]).join("") || "?"; }
+    function filtered(){
+      const s = q.toLowerCase();
+      return PEOPLE.filter(p=>{
+        if (era!=="all" && p.era!==era) return false;
+        if (!s) return true;
+        return (p.name+" "+p.one+" "+p.hold+" "+p.clues.join(" ")+" "+p.also).toLowerCase().includes(s);
+      });
+    }
+    function paint(){
+      const list = filtered();
+      document.getElementById("count").textContent = list.length + " people";
+      document.getElementById("grid").innerHTML = list.map(p=>`
+        <a class="card" href="#${p.id}">
+          <div class="ph">${p.has_photo?'<img alt="'+p.name+'" src="'+p.img+'">':'<div class="m">'+initials(p)+'</div>'}</div>
+          <div class="bd"><b>${p.name}</b><span>${p.years || p.era}</span></div>
+        </a>`).join("");
+    }
+    function openHash(){
+      const id = location.hash.replace("#","");
+      const p = PEOPLE.find(x=>x.id===id);
+      const el = document.getElementById("detail");
+      if (!p){ el.className="detail"; el.innerHTML=""; return; }
+      el.className="detail on";
+      el.innerHTML = `
+        ${p.has_photo?'<img class="face" style="width:180px;height:230px" alt="'+p.name+'" src="'+p.img+'">':'<div class="mono" style="width:180px;height:230px">'+initials(p)+'</div>'}
+        <div>
+          <p class="k">${p.era}${p.years ? " · " + p.years : ""}</p>
+          <h2 style="font-family:'Source Serif 4',Georgia,serif;font-size:32px;font-weight:600;margin:4px 0 8px">${p.name}</h2>
+          <p class="hold">${p.one}</p>
+          <p class="muted">${p.also}</p>
+          <ol class="muted" style="margin:12px 0 0 18px">${p.clues.map(c=>"<li>"+c+"</li>").join("")}</ol>
+          <div class="row">
+            <a class="btn primary" href="index.html">Play Who am I</a>
+            ${p.wiki?'<a class="btn" href="'+p.wiki+'" target="_blank" rel="noopener">Read more</a>':''}
+          </div>
+        </div>`;
+      el.scrollIntoView({behavior:"smooth",block:"start"});
+    }
+    const eras = document.getElementById("eras");
+    [["all","All"], ...labels.map(x=>[x,x])].forEach(([id,lab],i)=>{
+      const b=document.createElement("button");
+      b.className="chip"+(i===0?" on":""); b.textContent=lab;
+      b.onclick=()=>{ era=id; [...eras.children].forEach(x=>x.classList.remove("on")); b.classList.add("on"); paint(); };
+      eras.appendChild(b);
+    });
+    document.getElementById("q").oninput = e=>{ q=e.target.value; paint(); };
+    window.addEventListener("hashchange", openHash);
+    paint(); openHash();
+  </script>
+</body>
+</html>
