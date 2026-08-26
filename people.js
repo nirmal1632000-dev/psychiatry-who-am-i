@@ -30,24 +30,25 @@ window.WHO = [
     "name": "Antonio Damasio",
     "years": "",
     "era": "Brain",
-    "one": "neuroscientist and professor at the University of Southern California",
-    "hold": "I am a Portuguese neuroscientist.",
+    "one": "Feeling needs the body. Somatic markers steer choices.",
+    "hold": "Feeling needs the body. Somatic markers steer choices.",
     "clues": [
-      "I am a Portuguese neuroscientist.",
-      "I am currently the David Dornsife Chair in Neuroscience, as well as Professor of Psychology, Philosophy, and Neurology, at the University of Southern California, and, additionally, an adjunct professor at the Salk Institute.",
-      "I am often described as neuroscientist and professor at the University of Southern California."
+      "I argued that the body is part of how the mind decides.",
+      "People with certain frontal damage can talk sense and still gamble badly.",
+      "I wrote about somatic markers and a book whose title argues with Descartes."
     ],
-    "also": "I am currently the David Dornsife Chair in Neuroscience, as well as Professor of Psychology, Philosophy, and Neurology, at the University of Southern California, and, additionally, an adjunct professor at the Salk Institute.",
+    "also": "This is not James–Lange restated. Markers guide decisions, not just label emotions.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ant%C3%B3nio_Dam%C3%A1sio_no_Fronteiras_do_Pensamento_Porto_Alegre_2013_cropped.png/500px-Ant%C3%B3nio_Dam%C3%A1sio_no_Fronteiras_do_Pensamento_Porto_Alegre_2013_cropped.png",
     "wiki": "https://en.wikipedia.org/wiki/Antonio_Damasio",
     "has_photo": true,
-    "hook": "Neuroscientist and professor at the University of Southern California",
+    "hook": "Feeling needs the body. Somatic markers steer choices.",
     "remember": [
-      "neuroscientist and professor at the University of Southern California",
-      "currently the David Dornsife Chair in Neuroscience, as well as Professor of Psychology, Philosophy, and Neurology, at the University of Southern California, and"
+      "Somatic marker hypothesis.",
+      "Patients with ventromedial frontal damage can know the right answer and still choose badly.",
+      "Descartes' Error is the usual book."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "This is not James–Lange restated. Markers guide decisions, not just label emotions.",
+    "pair": "LeDoux is fear circuits. This man is feeling-as-guide."
   },
   {
     "id": "brenda-milner",
@@ -105,24 +106,25 @@ window.WHO = [
     "name": "Charles Scott Sherrington",
     "years": "1857–1952",
     "era": "Brain",
-    "one": "English footballer, neurophysiologist and Nobel Prize recipient",
-    "hold": "I was a British neurophysiologist and academic.",
+    "one": "The synapse and the reflex as a circuit of neurons.",
+    "hold": "The synapse and the reflex as a circuit of neurons.",
     "clues": [
-      "I was a British neurophysiologist and academic.",
-      "His experimental research established many aspects of contemporary neuroscience, including the concept of the spinal reflex as a system involving connected neurons (the \"neuron doctrine\"), and how signal transmission between neurons can be potentiated or depotentiated.",
-      "I am often described as english footballer, neurophysiologist and Nobel Prize recipient."
+      "I studied spinal reflexes as a system of connected nerve cells.",
+      "I gave a name to the gap where one neuron talks to the next.",
+      "I shared a Nobel Prize for work on the neuron and the reflex."
     ],
-    "also": "His experimental research established many aspects of contemporary neuroscience, including the concept of the spinal reflex as a system involving connected neurons (the \"neuron doctrine\"), and how signal transmission between neurons can be potentiated or depotentiated.",
+    "also": "Cajal saw the neuron. This man named the gap and the reflex logic.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charles_Scott_Sherrington2.jpg/500px-Charles_Scott_Sherrington2.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Charles_Scott_Sherrington",
     "has_photo": true,
-    "hook": "English footballer, neurophysiologist and Nobel Prize recipient",
+    "hook": "The synapse and the reflex as a circuit of neurons.",
     "remember": [
-      "English footballer, neurophysiologist and Nobel Prize recipient",
-      "His experimental research established many aspects of contemporary neuroscience, including the concept of the spinal reflex as a system involving connected neur"
+      "Coined synapse.",
+      "Integrative action of the nervous system.",
+      "Nobel 1932 with Adrian."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Cajal saw the neuron. This man named the gap and the reflex logic.",
+    "pair": "Cajal, Golgi."
   },
   {
     "id": "eric-kandel",
@@ -154,47 +156,50 @@ window.WHO = [
     "name": "Franco Basaglia",
     "years": "1924–1980",
     "era": "Brain",
-    "one": "Italian psychiatrist and neurologist",
-    "hold": "I was an Italian psychiatrist, neurologist, professor, and disability advocate who proposed the dismantling of psychiatric hospitals, pioneer of the modern concept of mental health, Italian psychiatry reformer, figurehead and founder of Democratic Psychiatry, architect, and principal proponent of Law 180, which abolished mental hospitals in Italy.",
+    "one": "Italy: close the asylum, treat the person in the city.",
+    "hold": "Italy: close the asylum, treat the person in the city.",
     "clues": [
-      "I was an Italian psychiatrist, neurologist, professor, and disability advocate who proposed the dismantling of psychiatric hospitals, pioneer of the modern concept of mental health, Italian psychiatry reformer, figurehead and founder of Democratic Psychiatry, architect, and principal proponent of Law 180, which abolished mental hospitals in Italy.",
-      "I am considered to be the most influential Italian psychiatrist of the 20th century.",
-      "I am often described as italian psychiatrist and neurologist."
+      "I was an Italian psychiatrist who wanted the mental hospital dismantled.",
+      "A 1978 law in my country followed that idea.",
+      "I worked in Trieste and became the face of that reform."
     ],
-    "also": "I am considered to be the most influential Italian psychiatrist of the 20th century.",
+    "also": "Pinel took chains off. This man tried to take the hospital itself away.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1979_-_BasagliaFoto800.jpg/500px-1979_-_BasagliaFoto800.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Franco_Basaglia",
     "has_photo": true,
-    "hook": "Italian psychiatrist and neurologist",
+    "hook": "Italy: close the asylum, treat the person in the city.",
     "remember": [
-      "Italian psychiatrist and neurologist",
-      "considered to be the most influential Italian psychiatrist of the 20th century"
+      "Law 180, 1978.",
+      "Trieste.",
+      "Most named Italian psychiatrist of the late 20th century."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Pinel took chains off. This man tried to take the hospital itself away.",
+    "pair": "Pinel, Szasz — different centuries, same argument about coercion."
   },
   {
     "id": "henry-head",
     "name": "Henry Head",
     "years": "1861–1940",
     "era": "Brain",
-    "one": "British neurologist",
-    "hold": "I FRS was an English neurologist who conducted pioneering work into the somatosensory system and sensory nerves.",
+    "one": "He cut his own nerve to map sensation.",
+    "hold": "He cut his own nerve to map sensation.",
     "clues": [
-      "I FRS was an English neurologist who conducted pioneering work into the somatosensory system and sensory nerves.",
-      "Much of this work was conducted on himself, in collaboration with the psychiatrist W.",
-      "I am often described as british neurologist."
+      "I was an English neurologist who studied how the skin feels.",
+      "Much of the work was done on my own arm after a nerve was divided.",
+      "I split fine touch from a cruder, more painful kind of feeling."
     ],
-    "also": "Much of this work was conducted on himself, in collaboration with the psychiatrist W.",
+    "also": "Not Hughlings Jackson (epilepsy). This man is sensation.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Henry_Head_3.jpg/500px-Henry_Head_3.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Henry_Head",
     "has_photo": true,
-    "hook": "British neurologist",
+    "hook": "He cut his own nerve to map sensation.",
     "remember": [
-      "Much of this work was conducted on himself, in collaboration with the psychiatrist W"
+      "Epicritic vs protopathic sensation.",
+      "Worked on himself with Rivers.",
+      "British neurologist."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not Hughlings Jackson (epilepsy). This man is sensation.",
+    "pair": "Rivers, Hughlings Jackson."
   },
   {
     "id": "james-papez",
@@ -250,93 +255,100 @@ window.WHO = [
     "name": "John Hughlings Jackson",
     "years": "1835–1911",
     "era": "Brain",
-    "one": "British neurologist",
-    "hold": "I am best known for his research on epilepsy.",
+    "one": "Epilepsy as a release of higher control. Marching seizures.",
+    "hold": "Epilepsy as a release of higher control. Marching seizures.",
     "clues": [
-      "I am best known for his research on epilepsy.",
-      "I am often described as british neurologist.",
-      "Examiners still ask this name."
+      "I am best known for research on epilepsy.",
+      "I described a fit that spreads in order along the body.",
+      "I thought higher brain levels hold lower ones in check, and disease lets them go."
     ],
-    "also": "I am often described as british neurologist.",
+    "also": "Not just a seizure type. He also gave psychiatry the idea of dissolution of function.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Selected_writings_of_John_Hughlings_Jackson%3B_frontispiece._Wellcome_L0000492.jpg/500px-Selected_writings_of_John_Hughlings_Jackson%3B_frontispiece._Wellcome_L0000492.jpg",
     "wiki": "https://en.wikipedia.org/wiki/John_Hughlings_Jackson",
     "has_photo": true,
-    "hook": "British neurologist",
+    "hook": "Epilepsy as a release of higher control. Marching seizures.",
     "remember": [
-      "british neurologist"
+      "Jacksonian march.",
+      "Positive and negative symptoms as release and loss.",
+      "Hierarchy of the nervous system."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not just a seizure type. He also gave psychiatry the idea of dissolution of function.",
+    "pair": "Charcot, Penfield."
   },
   {
     "id": "korbinian-brodmann",
     "name": "Korbinian Brodmann",
     "years": "1868–1918",
     "era": "Brain",
-    "one": "German neurologist",
-    "hold": "I was a German neuropsychiatrist who is known for mapping the cerebral cortex and defining 52 distinct regions, known as Brodmann areas, based on their cytoarchitectonic (histological) characteristics.",
+    "one": "Fifty-two numbered patches of cortex.",
+    "hold": "Fifty-two numbered patches of cortex.",
     "clues": [
-      "I was a German neuropsychiatrist who is known for mapping the cerebral cortex and defining 52 distinct regions, known as this person areas, based on their cytoarchitectonic (histological) characteristics.",
-      "I am often described as german neurologist.",
-      "Examiners still ask this name."
+      "I mapped the cerebral cortex into dozens of numbered fields.",
+      "The map is based on how the cells are stacked, not on what the patient can do.",
+      "Exam stems still quote those numbers for motor, visual and language cortex."
     ],
-    "also": "I am often described as german neurologist.",
+    "also": "The numbers are maps, not diseases.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Korbinian_Brodmann.gif",
     "wiki": "https://en.wikipedia.org/wiki/Korbinian_Brodmann",
     "has_photo": true,
-    "hook": "German neurologist",
+    "hook": "Fifty-two numbered patches of cortex.",
     "remember": [
-      "german neurologist"
+      "Cytoarchitectonic map.",
+      "Area 4 motor, 17 visual, 22 language, 25 subgenual — viva bait.",
+      "German, early 1900s."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "The numbers are maps, not diseases.",
+    "pair": "Mayberg uses area 25. Broca is not a Brodmann number in ordinary speech."
   },
   {
     "id": "kurt-goldstein",
     "name": "Kurt Goldstein",
     "years": "1878–1965",
     "era": "Brain",
-    "one": "German neurologist",
-    "hold": "I was a German neurologist and psychiatrist who created a holistic theory of the organism.",
+    "one": "The organism as a whole. Catastrophic reaction after brain injury.",
+    "hold": "The organism as a whole. Catastrophic reaction after brain injury.",
     "clues": [
-      "I was a German neurologist and psychiatrist who created a holistic theory of the organism.",
-      "Educated in medicine, this person studied under Carl Wernicke and Ludwig Edinger where he focused on neurology and psychiatry.",
-      "I am often described as german neurologist."
+      "I was a German neurologist who refused to treat a lesion as one lost part.",
+      "I described a catastrophic reaction when a brain-injured person cannot solve a simple task.",
+      "I wrote about the organism as a whole."
     ],
-    "also": "Educated in medicine, Goldstein studied under Carl Wernicke and Ludwig Edinger where he focused on neurology and psychiatry.",
+    "also": "Not the same as Luria's test battery.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/10/KurtGoldstein_1_%28cropped%29.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Kurt_Goldstein",
     "has_photo": true,
-    "hook": "German neurologist",
+    "hook": "The organism as a whole. Catastrophic reaction after brain injury.",
     "remember": [
-      "Educated in medicine, Goldstein studied under Carl Wernicke and Ludwig Edinger where he focused on neurology and psychiatry"
+      "Holistic neurology.",
+      "Abstract vs concrete attitude.",
+      "Studied under Wernicke and Edinger."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not the same as Luria's test battery.",
+    "pair": "Luria, Goldstein — two holistic neuropsychologists."
   },
   {
     "id": "oliver-sacks",
     "name": "Oliver Sacks",
     "years": "1933–2015",
     "era": "Brain",
-    "one": "British neurologist and writer",
-    "hold": "I was a British neurologist, naturalist, historian of science, and writer.",
+    "one": "The man who mistook his wife for a hat. Cases that teach.",
+    "hold": "The man who mistook his wife for a hat. Cases that teach.",
     "clues": [
-      "I was a British neurologist, naturalist, historian of science, and writer.",
-      "Born in London, this person received his medical degree in 1958 from The Queen's College, Oxford, before moving to the United States, where he spent most of his career.",
-      "I am often described as british neurologist and writer."
+      "I was a neurologist who wrote about patients so the public could see them.",
+      "One book is about people waking after decades of stillness when given a new drug.",
+      "Another title is about a man who could not recognise his own wife."
     ],
-    "also": "Born in London, Sacks received his medical degree in 1958 from The Queen's College, Oxford, before moving to the United States, where he spent most of his career.",
+    "also": "He is a writer-clinician, not the discoverer of a disease.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dr._Oliver_Sacks%2C_Physician%2C_Author.jpg/500px-Dr._Oliver_Sacks%2C_Physician%2C_Author.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Oliver_Sacks",
     "has_photo": true,
-    "hook": "British neurologist and writer",
+    "hook": "The man who mistook his wife for a hat. Cases that teach.",
     "remember": [
-      "British neurologist and writer",
-      "Born in London, Sacks received his medical degree in 1958 from The Queen's College, Oxford, before moving to the United States, where he spent most of his caree"
+      "Awakenings (encephalitis lethargica + L-DOPA).",
+      "Clinical tales, not a theory school.",
+      "British-born, worked in New York."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He is a writer-clinician, not the discoverer of a disease.",
+    "pair": "Luria also wrote case narratives."
   },
   {
     "id": "paul-broca",
@@ -394,95 +406,100 @@ window.WHO = [
     "name": "Alexander Luria",
     "years": "1902–1977",
     "era": "Child",
-    "one": "Soviet psychologist",
-    "hold": "I was a Soviet neuropsychologist, often credited as the father of modern neuropsychology.",
+    "one": "Father of modern neuropsychology. Tests built from war injuries.",
+    "hold": "Father of modern neuropsychology. Tests built from war injuries.",
     "clues": [
-      "I was a Soviet neuropsychologist, often credited as the father of modern neuropsychology.",
-      "He developed an extensive and original battery of neuropsychological tests during his clinical work with brain-injured victims of World War II, which are still used in various forms.",
-      "I am often described as soviet psychologist."
+      "I was a Soviet psychologist who tested soldiers with brain wounds.",
+      "I built a long bedside battery instead of one intelligence number.",
+      "I am often called the father of modern neuropsychology."
     ],
-    "also": "He developed an extensive and original battery of neuropsychological tests during his clinical work with brain-injured victims of World War II, which are still used in various forms.",
+    "also": "Not a Western IQ tester. He watched how a function broke.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alexander_Luria.jpg/500px-Alexander_Luria.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Alexander_Luria",
     "has_photo": true,
-    "hook": "Soviet psychologist",
+    "hook": "Father of modern neuropsychology. Tests built from war injuries.",
     "remember": [
-      "He developed an extensive and original battery of neuropsychological tests during his clinical work with brain-injured victims of World War II, which are still "
+      "Three functional units of the brain.",
+      "Syndrome analysis, not one score.",
+      "Worked with Vygotsky early on."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not a Western IQ tester. He watched how a function broke.",
+    "pair": "Vygotsky, Milner."
   },
   {
     "id": "ant-nio-egas-moniz",
     "name": "António Egas Moniz",
     "years": "1874–1955",
     "era": "Child",
-    "one": "Portuguese politian and neurosurgeon",
-    "hold": "António Caetano de Abreu Freire Egas Moniz, known as simply Egas Moniz, was a Portuguese neurologist and the developer of cerebral angiography.",
+    "one": "Leucotomy. Also cerebral angiography. A Nobel that later shamed the field.",
+    "hold": "Leucotomy. Also cerebral angiography. A Nobel that later shamed the field.",
     "clues": [
-      "António Caetano de Abreu Freire this person , known as simply this person , was a Portuguese neurologist and the developer of cerebral angiography.",
-      "I am regarded as one of the founders of modern psychosurgery, having developed the surgical procedure leucotomy—​better known today as lobotomy—​for which he became the first Portuguese national to receive a Nobel Prize in 1949 (shared with Walter Rudolf Hess).",
-      "I am often described as portuguese politian and neurosurgeon."
+      "I was a Portuguese neurologist who also developed a way to see brain vessels on X-ray.",
+      "I introduced an operation that cut white matter in the frontal lobes.",
+      "I received a Nobel Prize that later became a moral problem for psychiatry."
     ],
-    "also": "I am regarded as one of the founders of modern psychosurgery, having developed the surgical procedure leucotomy—​better known today as lobotomy—​for which he became the first Portuguese national to receive a Nobel Prize in 1949 (shared with Walter Rudolf Hess).",
+    "also": "He invented the operation. Freeman made it a production line.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Moniz.jpg/500px-Moniz.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Egas_Moniz",
     "has_photo": true,
-    "hook": "Portuguese politian and neurosurgeon",
+    "hook": "Leucotomy. Also cerebral angiography. A Nobel that later shamed the field.",
     "remember": [
-      "Portuguese politian and neurosurgeon",
-      "regarded as one of the founders of modern psychosurgery, having developed the surgical procedure leucotomy—​better known today as lobotomy—​for which he became "
+      "Portuguese neurologist.",
+      "Prefrontal leucotomy, 1930s.",
+      "Freeman popularised a cruder version."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He invented the operation. Freeman made it a production line.",
+    "pair": "Freeman, Cerletti (another drastic somatic treatment)."
   },
   {
     "id": "bernard-rimland",
     "name": "Bernard Rimland",
     "years": "1928–2006",
     "era": "Child",
-    "one": "American psychologist",
-    "hold": "I was an American research psychologist, alternative medicine promoter, writer, and lecturer, who was influential in dispelling the once-prevalent belief that autism was caused by emotionally cold or distant parenting.",
+    "one": "Autism is not cold parenting.",
+    "hold": "Autism is not cold parenting.",
     "clues": [
-      "I was an American research psychologist, alternative medicine promoter, writer, and lecturer, who was influential in dispelling the once-prevalent belief that autism was caused by emotionally cold or distant parenting.",
-      "I am often described as american psychologist.",
-      "Examiners still ask this name as a one-line identification."
+      "I was an American psychologist and the father of an autistic child.",
+      "In 1964 I argued autism is biological, not caused by cold mothers.",
+      "I helped organise parents, and later backed some treatments that remain argued."
     ],
-    "also": "Rimland's first book, Infantile Autism—inspired by his experience parenting an autistic son—was instrumental in changing attitudes about the disorder.",
+    "also": "Kanner described the syndrome. This man attacked the cause-story.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bernard-Rimland_%28cropped%29.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Bernard_Rimland",
     "has_photo": true,
-    "hook": "American psychologist",
+    "hook": "Autism is not cold parenting.",
     "remember": [
-      "American psychologist",
-      "Rimland's first book, Infantile Autism—inspired by his experience parenting an autistic son—was instrumental in changing attitudes about the disorder"
+      "1964 book.",
+      "Fought the refrigerator-mother story.",
+      "Later some disputed treatments."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Kanner described the syndrome. This man attacked the cause-story.",
+    "pair": "Kanner, Wing."
   },
   {
     "id": "daniel-weinberger",
     "name": "Daniel Weinberger",
     "years": "",
     "era": "Child",
-    "one": "psychiatrist and neuroscientist",
-    "hold": "Weinberger is a professor of psychiatry, neurology and neuroscience at Johns Hopkins University and Director and CEO of the Lieber Institute for Brain Development, which opened in 2011.",
+    "one": "Schizophrenia as a neurodevelopmental brain disease.",
+    "hold": "Schizophrenia as a neurodevelopmental brain disease.",
     "clues": [
-      "I am often described as psychiatrist and neuroscientist.",
-      "Examiners still ask this name.",
-      "Examiners still ask this name as a one-line identification."
+      "I am an American psychiatrist who used brain scans in schizophrenia.",
+      "I argued the illness begins in development, not only at the first voice.",
+      "I worked for years at the US national institute for mental health."
     ],
-    "also": "I am often described as psychiatrist and neuroscientist.",
+    "also": "Not Crow's two types. This is development and circuits.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Daniel_Weinberger",
     "has_photo": false,
-    "hook": "Psychiatrist and neuroscientist",
+    "hook": "Schizophrenia as a neurodevelopmental brain disease.",
     "remember": [
-      "psychiatrist and neuroscientist",
-      "psychiatrist and neuroscientist"
+      "NIMH.",
+      "Prefrontal dopamine and the developmental hypothesis.",
+      "Imaging of people with schizophrenia."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not Crow's two types. This is development and circuits.",
+    "pair": "Murray (also neurodevelopmental)."
   },
   {
     "id": "hans-asperger",
@@ -514,24 +531,26 @@ window.WHO = [
     "name": "Harry Harlow",
     "years": "1905–1981",
     "era": "Child",
-    "one": "American psychologist",
-    "hold": "I was an American psychologist best known for his maternal-separation, dependency needs, and social isolation experiments on rhesus monkeys, which manifested the importance of caregiving and companionship to social and cognitive development.",
+    "one": "Cloth mother vs wire mother. Comfort beats the bottle.",
+    "hold": "Cloth mother vs wire mother. Comfort beats the bottle.",
     "clues": [
-      "I was an American psychologist best known for his maternal-separation, dependency needs, and social isolation experiments on rhesus monkeys, which manifested the importance of caregiving and companionship to social and cognitive development.",
-      "He conducted most of his research at the University of Wisconsin–Madison, where humanistic psychologist Abraham Maslow worked with him for a short period of time.",
-      "I am often described as american psychologist."
+      "I was an American psychologist who studied infant monkeys.",
+      "The infants preferred a soft dummy mother to a wire one that gave milk.",
+      "Long isolation left them socially wrecked."
     ],
-    "also": "He conducted most of his research at the University of Wisconsin–Madison, where humanistic psychologist Abraham Maslow worked with him for a short period of time.",
+    "also": "Bowlby is human attachment theory. This man is the monkey experiment.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Natural_of_Love_Typical_response_to_cloth_mother_surrogate_in_fear_test.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Harry_Harlow",
     "has_photo": true,
-    "hook": "American psychologist",
+    "hook": "Cloth mother vs wire mother. Comfort beats the bottle.",
     "remember": [
-      "American psychologist",
-      "He conducted most of his research at the University of Wisconsin–Madison, where humanistic psychologist Abraham Maslow worked with him for a short period of tim"
+      "Rhesus monkeys.",
+      "Contact comfort.",
+      "Isolation produced severe social damage.",
+      "Ethics now taught beside the finding."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Bowlby is human attachment theory. This man is the monkey experiment.",
+    "pair": "Bowlby, Ainsworth."
   },
   {
     "id": "henri-laborit",
@@ -639,24 +658,25 @@ window.WHO = [
     "name": "Lawrence Kohlberg",
     "years": "",
     "era": "Child",
-    "one": "American psychologist",
-    "hold": "I was an American psychologist best known for his theory of stages of moral development.",
+    "one": "Moral reasoning in stages, from punishment to principle.",
+    "hold": "Moral reasoning in stages, from punishment to principle.",
     "clues": [
-      "I was an American psychologist best known for his theory of stages of moral development.",
-      "He served as a professor in the Psychology Department at the University of Chicago and at the Graduate School of Education at Harvard University.",
-      "I am often described as american psychologist."
+      "I was an American psychologist who studied how people justify right and wrong.",
+      "I used stories such as a man who steals a drug for his dying wife.",
+      "I described three levels of moral reasoning."
     ],
-    "also": "He served as a professor in the Psychology Department at the University of Chicago and at the Graduate School of Education at Harvard University.",
+    "also": "Piaget is cognition. This man is moral judgement.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Lawrence_Kohlberg",
     "has_photo": false,
-    "hook": "American psychologist",
+    "hook": "Moral reasoning in stages, from punishment to principle.",
     "remember": [
-      "American psychologist",
-      "He served as a professor in the Psychology Department at the University of Chicago and at the Graduate School of Education at Harvard University"
+      "Preconventional, conventional, postconventional.",
+      "Heinz dilemma.",
+      "Criticised by Gilligan as too male/justice."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Piaget is cognition. This man is moral judgement.",
+    "pair": "Piaget, Gilligan."
   },
   {
     "id": "leo-kanner",
@@ -688,71 +708,75 @@ window.WHO = [
     "name": "Lev Vygotsky",
     "years": "1896–1934",
     "era": "Child",
-    "one": "Soviet psychologist",
-    "hold": "November 5] 1896 – June 11, 1934) was a Russian and Soviet psychologist, best known for his work on psychological development in children and creating the framework known as cultural-historical activity theory.",
+    "one": "What a child can do with help today, alone tomorrow.",
+    "hold": "What a child can do with help today, alone tomorrow.",
     "clues": [
-      "November 5] 1896 – June 11, 1934) was a Russian and Soviet psychologist, best known for his work on psychological development in children and creating the framework known as cultural-historical activity theory.",
-      "After his early death, his books and research were banned in the Soviet Union until Joseph Stalin's death in 1953, with a first collection of major texts published in 1956.",
-      "I am often described as soviet psychologist."
+      "I was a Soviet psychologist who died in my thirties.",
+      "I said a child can do more with a skilled helper than alone, and that gap is where teaching lives.",
+      "My books were suppressed and later returned."
     ],
-    "also": "After his early death, his books and research were banned in the Soviet Union until Joseph Stalin's death in 1953, with a first collection of major texts published in 1956.",
+    "also": "Piaget is stages inside the child. This man is social help.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Lev_Vygotsky",
     "has_photo": false,
-    "hook": "Soviet psychologist",
+    "hook": "What a child can do with help today, alone tomorrow.",
     "remember": [
-      "After his early death, his books and research were banned in the Soviet Union until Joseph Stalin's death in 1953, with a first collection of major texts publis"
+      "Zone of proximal development.",
+      "Language as a tool of thought.",
+      "Died young; work banned then revived."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Piaget is stages inside the child. This man is social help.",
+    "pair": "Piaget, Luria."
   },
   {
     "id": "lorna-wing",
     "name": "Lorna Wing",
     "years": "1928–2014",
     "era": "Child",
-    "one": "British autism researcher",
-    "hold": "I was a British psychiatrist who conducted research into autism.",
+    "one": "She brought Asperger into English and drew the autism spectrum.",
+    "hold": "She brought Asperger into English and drew the autism spectrum.",
     "clues": [
-      "I was a British psychiatrist who conducted research into autism.",
-      "She coined the term Asperger's syndrome and helped found the National Autistic Society.",
-      "I am often described as british autism researcher."
+      "I was a British psychiatrist who researched autism and had an autistic child.",
+      "I helped found a national society for families.",
+      "I introduced a Viennese clinician's 1944 picture into ordinary English use and spoke of a spectrum."
     ],
-    "also": "She coined the term Asperger's syndrome and helped found the National Autistic Society.",
+    "also": "She did not write the 1944 paper. She named and spread it.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Lorna_Wing",
     "has_photo": false,
-    "hook": "British autism researcher",
+    "hook": "She brought Asperger into English and drew the autism spectrum.",
     "remember": [
-      "British autism researcher",
-      "She coined the term Asperger's syndrome and helped found the National Autistic Society"
+      "National Autistic Society.",
+      "Triad of impairments.",
+      "Used the Viennese 1944 paper in English work."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "She did not write the 1944 paper. She named and spread it.",
+    "pair": "Kanner, Asperger."
   },
   {
     "id": "manfred-sakel",
     "name": "Manfred Sakel",
     "years": "1900–1957",
     "era": "Child",
-    "one": "Austrian, Polish, American neuroscientist",
-    "hold": "I was an Austrian-American neurophysiologist and psychiatrist, credited with developing insulin shock therapy in 1927.",
+    "one": "Insulin comas for psychosis. Historical, dangerous, gone.",
+    "hold": "Insulin comas for psychosis. Historical, dangerous, gone.",
     "clues": [
-      "I was an Austrian-American neurophysiologist and psychiatrist, credited with developing insulin shock therapy in 1927.",
-      "I am often described as austrian, Polish, American neuroscientist.",
-      "Examiners still ask this name."
+      "I was an Austrian-American psychiatrist who put patients into coma with a hormone.",
+      "The method was used for psychosis before modern antipsychotics.",
+      "It is insulin shock therapy."
     ],
-    "also": "I am often described as austrian, Polish, American neuroscientist.",
+    "also": "Cerletti is electricity. Meduna is chemical fits. This man is insulin.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Manfred_Sakel",
     "has_photo": false,
-    "hook": "Austrian, Polish, American neuroscientist",
+    "hook": "Insulin comas for psychosis. Historical, dangerous, gone.",
     "remember": [
-      "Austrian, Polish, American neuroscientist",
-      "austrian, Polish, American neuroscientist"
+      "Insulin shock therapy, late 1920s.",
+      "Austrian-American.",
+      "Replaced by antipsychotics."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Cerletti is electricity. Meduna is chemical fits. This man is insulin.",
+    "pair": "Cerletti, Meduna, Wagner-Jauregg."
   },
   {
     "id": "mary-ainsworth",
@@ -784,23 +808,25 @@ window.WHO = [
     "name": "Michael Rutter",
     "years": "1933–2021",
     "era": "Child",
-    "one": "British psychiatrist",
-    "hold": "I was the first person to be appointed professor of child psychiatry in the United Kingdom.",
+    "one": "First professor of child psychiatry in the UK. Autism is strongly genetic.",
+    "hold": "First professor of child psychiatry in the UK. Autism is strongly genetic.",
     "clues": [
-      "I was the first person to be appointed professor of child psychiatry in the United Kingdom.",
-      "He has been described as the \"father of child psychiatry\".",
-      "I am often described as british psychiatrist."
+      "I was the first professor of child psychiatry in the United Kingdom.",
+      "I ran large studies of children on an island and of twins with autism.",
+      "People called me the father of child psychiatry."
     ],
-    "also": "He has been described as the \"father of child psychiatry\".",
+    "also": "Bowlby started attachment. This man tested and limited it with data.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Michael_Rutter",
     "has_photo": false,
-    "hook": "British psychiatrist",
+    "hook": "First professor of child psychiatry in the UK. Autism is strongly genetic.",
     "remember": [
-      "He has been described as the \"father of child psychiatry\""
+      "Isle of Wight studies.",
+      "Maternal deprivation refined, not dumped.",
+      "Twin work on autism."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Bowlby started attachment. This man tested and limited it with data.",
+    "pair": "Bowlby, Wing."
   },
   {
     "id": "philippe-pinel",
@@ -857,24 +883,25 @@ window.WHO = [
     "name": "Urie Bronfenbrenner",
     "years": "1917–2005",
     "era": "Child",
-    "one": "Russian American developmental psychologist",
-    "hold": "I was a Russian-born American psychologist best known for using a contextual framework to better understand human development.",
+    "one": "The child sits in rings: family, school, culture, time.",
+    "hold": "The child sits in rings: family, school, culture, time.",
     "clues": [
-      "I was a Russian-born American psychologist best known for using a contextual framework to better understand human development.",
-      "This framework, broadly referred to as 'ecological systems theory', was formalized in an article published in American Psychologist, articulated in a series of propositions and hypotheses in his most cited book, The Ecology of Human Development and further developed in The Bioecological Model of Human Development and later writings.",
-      "I am often described as russian American developmental psychologist."
+      "I was a Russian-born American psychologist of child development.",
+      "I drew the child at the centre of nested rings of family, school and culture.",
+      "That framework is ecological systems theory."
     ],
-    "also": "This framework, broadly referred to as 'ecological systems theory', was formalized in an article published in American Psychologist, articulated in a series of propositions and hypotheses in his most cited book, The Ecology of Human Development and further developed in The Bioecological Model of Human Development and later writings.",
+    "also": "Not Piaget stages. This is context around the child.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Urie_Bronfenbrenner",
     "has_photo": false,
-    "hook": "Russian American developmental psychologist",
+    "hook": "The child sits in rings: family, school, culture, time.",
     "remember": [
-      "Russian American developmental psychologist",
-      "This framework, broadly referred to as 'ecological systems theory', was formalized in an article published in American Psychologist, articulated in a series of "
+      "Ecological systems theory.",
+      "Microsystem to macrosystem, plus chronosystem.",
+      "Head Start influence."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not Piaget stages. This is context around the child.",
+    "pair": "Vygotsky."
   },
   {
     "id": "walter-bradford-cannon",
@@ -931,24 +958,25 @@ window.WHO = [
     "name": "Aubrey Lewis",
     "years": "",
     "era": "History",
-    "one": "Australian psychiatrist",
-    "hold": "I was a British-Australian psychiatrist.",
+    "one": "He built the Maudsley / Institute of Psychiatry as a scientific school.",
+    "hold": "He built the Maudsley / Institute of Psychiatry as a scientific school.",
     "clues": [
-      "I was a British-Australian psychiatrist.",
-      "I was the first Professor of Psychiatry at the Institute of Psychiatry, London (now part of King's College London), and is credited with being a driving force behind the flowering of British psychiatry after World War II as well as raising the profile of the profession worldwide.",
-      "I am often described as australian psychiatrist."
+      "I was an Australian-born psychiatrist who taught in London.",
+      "I was the first professor at what became the Institute of Psychiatry.",
+      "I pushed British psychiatry toward evidence rather than one school."
     ],
-    "also": "I was the first Professor of Psychiatry at the Institute of Psychiatry, London (now part of King's College London), and is credited with being a driving force behind the flowering of British psychiatry after World War II as well as raising the profile of the profession worldwide.",
+    "also": "Maudsley the Victorian is a different man. This is the 20th-century professor.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Aubrey_Lewis",
     "has_photo": false,
-    "hook": "Australian psychiatrist",
+    "hook": "He built the Maudsley / Institute of Psychiatry as a scientific school.",
     "remember": [
-      "Australian psychiatrist",
-      "the first Professor of Psychiatry at the Institute of Psychiatry, London (now part of King's College London), and is credited with being a driving force behind "
+      "First professor of psychiatry at the Institute of Psychiatry, London.",
+      "Australian-born, British career.",
+      "Evidence over school loyalty."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Maudsley the Victorian is a different man. This is the 20th-century professor.",
+    "pair": "Henry Maudsley (the older name on the hospital)."
   },
   {
     "id": "augustus-john-rush",
@@ -1030,166 +1058,174 @@ window.WHO = [
     "name": "Camillo Golgi",
     "years": "1843–1926",
     "era": "History",
-    "one": "Italian physician, pathologist, scientist, and Nobel laureate",
-    "hold": "I was an Italian biologist and pathologist who was awarded the 1906 Nobel Prize in Physiology or Medicine for his works on the central nervous system.",
+    "one": "Silver stain that made neurons visible. He thought the nervous system was a net.",
+    "hold": "Silver stain that made neurons visible. He thought the nervous system was a net.",
     "clues": [
-      "I was an Italian biologist and pathologist who was awarded the 1906 Nobel Prize in Physiology or Medicine for his works on the central nervous system.",
-      "He studied medicine at the University of Pavia (where he later spent most of his professional career) between 1860 and 1868 under the tutelage of Cesare Lombroso.",
-      "I am often described as italian physician, pathologist, scientist, and Nobel laureate."
+      "I was an Italian pathologist who invented a silver stain for nerve tissue.",
+      "I thought the nervous system was a continuous net.",
+      "I shared the 1906 Nobel Prize with the man who argued for separate neurons."
     ],
-    "also": "He studied medicine at the University of Pavia (where he later spent most of his professional career) between 1860 and 1868 under the tutelage of Cesare Lombroso.",
+    "also": "Cajal is the neuron doctrine. This man is the stain and the net.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Camillo_Golgi_nobel.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Camillo_Golgi",
     "has_photo": true,
-    "hook": "Italian physician, pathologist, scientist, and Nobel laureate",
+    "hook": "Silver stain that made neurons visible. He thought the nervous system was a net.",
     "remember": [
-      "Italian physician, pathologist, scientist, and Nobel laureate",
-      "He studied medicine at the University of Pavia (where he later spent most of his professional career) between 1860 and 1868 under the tutelage of Cesare Lombros"
+      "Black reaction.",
+      "Nobel 1906 with Cajal.",
+      "Reticular theory — Cajal won the argument."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Cajal is the neuron doctrine. This man is the stain and the net.",
+    "pair": "Cajal."
   },
   {
     "id": "clifford-w-beers",
     "name": "Clifford W. Beers",
     "years": "1876–1943",
     "era": "History",
-    "one": "founder of the American mental hygiene movement.",
-    "hold": "I was an American author and psychiatric patient, best known as the founder of the American mental hygiene movement.",
+    "one": "A patient who wrote the book and started mental hygiene.",
+    "hold": "A patient who wrote the book and started mental hygiene.",
     "clues": [
-      "I was an American author and psychiatric patient, best known as the founder of the American mental hygiene movement.",
-      "I am often described as founder of the American mental hygiene movement.",
-      "Examiners still ask this name."
+      "I was an American who had been a psychiatric patient.",
+      "I wrote a 1908 memoir of that experience.",
+      "I helped found the mental hygiene movement."
     ],
-    "also": "I am often described as founder of the American mental hygiene movement.",
+    "also": "Dix lobbied for hospitals. This man had lived in them.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Portrait_of_Clifford_W._Beers.jpg/500px-Portrait_of_Clifford_W._Beers.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Clifford_W._Beers",
     "has_photo": true,
-    "hook": "Founder of the American mental hygiene movement.",
+    "hook": "A patient who wrote the book and started mental hygiene.",
     "remember": [
-      "founder of the American mental hygiene movement",
-      "founder of the American mental hygiene movement"
+      "A Mind That Found Itself, 1908.",
+      "American mental hygiene movement.",
+      "He had been in asylums."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Dix lobbied for hospitals. This man had lived in them.",
+    "pair": "Dix."
   },
   {
     "id": "daniel-hack-tuke",
     "name": "Daniel Hack Tuke",
     "years": "1827–1895",
     "era": "History",
-    "one": "British doctor",
-    "hold": "I was an English physician and expert on mental illness.",
+    "one": "Victorian expert on insanity from the York reform family.",
+    "hold": "Victorian expert on insanity from the York reform family.",
     "clues": [
-      "I was an English physician and expert on mental illness.",
-      "I am often described as british doctor.",
-      "Examiners still ask this name."
+      "I was an English physician who wrote a dictionary of psychological medicine.",
+      "I came from a Quaker family already famous for kinder asylum care.",
+      "I am not the man who founded the Retreat."
     ],
-    "also": "I am often described as british doctor.",
+    "also": "William founded the Retreat. This is a later physician in the same family.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/PSM_V47_D641_Daniel_Hack_Tuke.jpg/500px-PSM_V47_D641_Daniel_Hack_Tuke.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Daniel_Hack_Tuke",
     "has_photo": true,
-    "hook": "British doctor",
+    "hook": "Victorian expert on insanity from the York reform family.",
     "remember": [
-      "british doctor"
+      "Dictionary of Psychological Medicine.",
+      "Quaker reform lineage.",
+      "Not William Tuke (the Retreat)."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "William founded the Retreat. This is a later physician in the same family.",
+    "pair": "William Tuke."
   },
   {
     "id": "dorothea-dix",
     "name": "Dorothea Dix",
     "years": "1802–1887",
     "era": "History",
-    "one": "American author and social reformer",
-    "hold": "I was an American advocate on behalf of the poor mentally ill.",
+    "one": "She toured jails and forced states to build asylums.",
+    "hold": "She toured jails and forced states to build asylums.",
     "clues": [
-      "I was an American advocate on behalf of the poor mentally ill.",
-      "By her vigorous and sustained program of lobbying state legislatures and the United States Congress, she helped create the first generation of American mental asylums.",
-      "I am often described as american author and social reformer."
+      "I was an American woman who inspected jails and almshouses.",
+      "I lobbied state after state to build hospitals for the mentally ill.",
+      "I am remembered as a reformer, not as a theorist."
     ],
-    "also": "By her vigorous and sustained program of lobbying state legislatures and the United States Congress, she helped create the first generation of American mental asylums.",
+    "also": "Pinel is Paris. This woman is American legislatures.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dix-Dorothea-LOC.jpg/500px-Dix-Dorothea-LOC.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Dorothea_Dix",
     "has_photo": true,
-    "hook": "American author and social reformer",
+    "hook": "She toured jails and forced states to build asylums.",
     "remember": [
-      "American author and social reformer",
-      "By her vigorous and sustained program of lobbying state legislatures and the United States Congress, she helped create the first generation of American mental a"
+      "American reformer, 19th century.",
+      "Lobbying, not a theory.",
+      "Also worked in the Civil War."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Pinel is Paris. This woman is American legislatures.",
+    "pair": "Tuke, Pinel."
   },
   {
     "id": "edward-b-titchener",
     "name": "Edward B. Titchener",
     "years": "1867–1927",
     "era": "History",
-    "one": "American psychologist",
-    "hold": "I was an English psychologist who studied under Wilhelm Wundt for several years.",
+    "one": "Wundt's student in America. Structuralism. Introspection.",
+    "hold": "Wundt's student in America. Structuralism. Introspection.",
     "clues": [
-      "I was an English psychologist who studied under Wilhelm Wundt for several years.",
-      "I am often described as american psychologist.",
-      "Examiners still ask this name as a one-line identification."
+      "I studied in Leipzig and then taught psychology in America.",
+      "I wanted to break consciousness into elements by trained introspection.",
+      "My school was called structuralism."
     ],
-    "also": "Titchener is best known for creating his version of psychology that described the structure of the mind: structuralism.",
+    "also": "Wundt is Leipzig. This man is the American structuralist.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Edward_Bradford_Titchener.jpg/500px-Edward_Bradford_Titchener.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Edward_B._Titchener",
     "has_photo": true,
-    "hook": "American psychologist",
+    "hook": "Wundt's student in America. Structuralism. Introspection.",
     "remember": [
-      "American psychologist",
-      "Titchener is best known for creating his version of psychology that described the structure of the mind: structuralism"
+      "Cornell.",
+      "Wanted the elements of consciousness.",
+      "Lost the fight to functionalism and behaviourism."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Wundt is Leipzig. This man is the American structuralist.",
+    "pair": "Wundt, James."
   },
   {
     "id": "ernst-kretschmer",
     "name": "Ernst Kretschmer",
     "years": "1888–1964",
     "era": "History",
-    "one": "German psychiatrist",
-    "hold": "I was a German psychiatrist who researched the human constitution and established a typology.",
+    "one": "Body build matched to temperament — history, not science now.",
+    "hold": "Body build matched to temperament — history, not science now.",
     "clues": [
-      "I was a German psychiatrist who researched the human constitution and established a typology.",
-      "I am often described as german psychiatrist.",
-      "Examiners still ask this name."
+      "I was a German psychiatrist who measured bodies as well as minds.",
+      "I paired a rounded build with circular mood illness and a thin build with schizophrenia.",
+      "The typology is asked as history."
     ],
-    "also": "I am often described as german psychiatrist.",
+    "also": "Do not use this to diagnose.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ernst_Kretschmer.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Ernst_Kretschmer",
     "has_photo": true,
-    "hook": "German psychiatrist",
+    "hook": "Body build matched to temperament — history, not science now.",
     "remember": [
-      "german psychiatrist"
+      "Pyknic–cyclothymic, asthenic–schizothymic, athletic.",
+      "Asked as typology, not as truth."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Do not use this to diagnose.",
+    "pair": "Sheldon later did a similar American version."
   },
   {
     "id": "eugene-aserinsky",
     "name": "Eugene Aserinsky",
     "years": "1921–1998",
     "era": "History",
-    "one": "American sleep researcher",
-    "hold": "I was a pioneer in sleep research, was a graduate student at the University of Chicago in 1953 when he discovered REM sleep.",
+    "one": "A graduate student who saw the eyes move in sleep.",
+    "hold": "A graduate student who saw the eyes move in sleep.",
     "clues": [
-      "I was a pioneer in sleep research, was a graduate student at the University of Chicago in 1953 when he discovered REM sleep.",
-      "I was the son of a dentist of Russian–Jewish descent.",
-      "I am often described as american sleep researcher."
+      "I was a graduate student in Chicago in 1953.",
+      "I noticed bursts of eye movement in sleeping people.",
+      "That stage of sleep is still named for those movements."
     ],
-    "also": "I was the son of a dentist of Russian–Jewish descent.",
+    "also": "Kleitman is the lab chief. This man saw REM.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Eugene_Aserinsky",
     "has_photo": false,
-    "hook": "American sleep researcher",
+    "hook": "A graduate student who saw the eyes move in sleep.",
     "remember": [
-      "American sleep researcher",
-      "the son of a dentist of Russian–Jewish descent"
+      "REM, 1953, Chicago.",
+      "Worked under Kleitman.",
+      "Started modern sleep staging."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Kleitman is the lab chief. This man saw REM.",
+    "pair": "Kleitman, Dement."
   },
   {
     "id": "ewald-hecker",
@@ -1246,94 +1282,100 @@ window.WHO = [
     "name": "Henry Maudsley",
     "years": "1835–1918",
     "era": "History",
-    "one": "British psychiatrist",
-    "hold": "I was a pioneering English psychiatrist, commemorated in the Maudsley Hospital in London and in the annual Maudsley Lecture of the Royal College of Psychiatrists.",
+    "one": "The Victorian whose name is on the London hospital.",
+    "hold": "The Victorian whose name is on the London hospital.",
     "clues": [
-      "I was a pioneering English psychiatrist, commemorated in the this person Hospital in London and in the annual this person Lecture of the Royal College of Psychiatrists.",
-      "I am often described as british psychiatrist.",
-      "Examiners still ask this name."
+      "I was a pioneering English psychiatrist in the nineteenth century.",
+      "A famous London hospital and an annual lecture still use my name.",
+      "I wrote as a hard somatic thinker, not a moralist."
     ],
-    "also": "I am often described as british psychiatrist.",
+    "also": "Aubrey Lewis is the later Institute professor. This is the Victorian.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Henry_Maudsley.jpg/500px-Henry_Maudsley.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Henry_Maudsley",
     "has_photo": true,
-    "hook": "British psychiatrist",
+    "hook": "The Victorian whose name is on the London hospital.",
     "remember": [
-      "british psychiatrist"
+      "Treatise on mental disease.",
+      "Somatic, hard-headed 19th-century psychiatry.",
+      "The hospital and the lecture still carry the name."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Aubrey Lewis is the later Institute professor. This is the Victorian.",
+    "pair": "Aubrey Lewis."
   },
   {
     "id": "hermann-ebbinghaus",
     "name": "Hermann Ebbinghaus",
     "years": "1850–1909",
     "era": "History",
-    "one": "German psychologist",
-    "hold": "I was a German psychologist who pioneered the experimental study of memory.",
+    "one": "He memorised nonsense syllables. Forgetting is a curve.",
+    "hold": "He memorised nonsense syllables. Forgetting is a curve.",
     "clues": [
-      "I was a German psychologist who pioneered the experimental study of memory.",
-      "I am often described as german psychologist.",
-      "Examiners still ask this name as a one-line identification."
+      "I was a German psychologist who studied memory on myself.",
+      "I learned lists of nonsense syllables and timed how they faded.",
+      "The forgetting curve is still drawn from that work."
     ],
-    "also": "Ebbinghaus discovered the forgetting curve and the spacing effect.",
+    "also": "Not Freud. This is experimental memory.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ebbinghaus2.jpg/500px-Ebbinghaus2.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Hermann_Ebbinghaus",
     "has_photo": true,
-    "hook": "German psychologist",
+    "hook": "He memorised nonsense syllables. Forgetting is a curve.",
     "remember": [
-      "Ebbinghaus discovered the forgetting curve and the spacing effect"
+      "Forgetting curve.",
+      "Spacing effect.",
+      "He was his own subject."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not Freud. This is experimental memory.",
+    "pair": "Kandel is cellular memory. This man is the curve."
   },
   {
     "id": "james-parkinson",
     "name": "James Parkinson",
     "years": "",
     "era": "History",
-    "one": "English surgeon, apothecary, geologist, paleontologist, and political activist",
-    "hold": "I was an English surgeon, apothecary, geologist, palaeontologist, and political activist.",
+    "one": "1817. The shaking palsy.",
+    "hold": "1817. The shaking palsy.",
     "clues": [
-      "I was an English surgeon, apothecary, geologist, palaeontologist, and political activist.",
-      "I am best known for his 1817 work An Essay on the Shaking Palsy, in which he was the first to describe \"paralysis agitans\", a condition that was later renamed this person disease by Jean-Martin Charcot.",
-      "I am often described as english surgeon, apothecary, geologist, paleontologist, and political activist."
+      "I was an English surgeon who also collected fossils.",
+      "In 1817 I described a shaking palsy with a resting tremor and a hurrying gait.",
+      "A later French neurologist put my name on that disease."
     ],
-    "also": "I am best known for his 1817 work An Essay on the Shaking Palsy, in which he was the first to describe \"paralysis agitans\", a condition that was later renamed Parkinson's disease by Jean-Martin Charcot.",
+    "also": "He was a surgeon-apothecary, not a modern neurologist.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/James_Parkinson_signature_1809.png",
     "wiki": "https://en.wikipedia.org/wiki/James_Parkinson",
     "has_photo": true,
-    "hook": "English surgeon, apothecary, geologist, paleontologist, and political activist",
+    "hook": "1817. The shaking palsy.",
     "remember": [
-      "English surgeon, apothecary, geologist, paleontologist, and political activist",
-      "best known for his 1817 work An Essay on the Shaking Palsy, in which he was the first to describe \"paralysis agitans\", a condition that was later renamed Parkin"
+      "Essay on the Shaking Palsy.",
+      "Rest tremor, festination, flexed posture.",
+      "Charcot later attached the eponym."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He was a surgeon-apothecary, not a modern neurologist.",
+    "pair": "Charcot named it after him."
   },
   {
     "id": "joseph-e-ledoux",
     "name": "Joseph E. LeDoux",
     "years": "",
     "era": "History",
-    "one": "American neuroscientist",
-    "hold": "LeDoux is an American neuroscientist whose research is primarily focused on survival circuits, including their impacts on emotions such as fear and anxiety.",
+    "one": "Fear has a fast road through the amygdala.",
+    "hold": "Fear has a fast road through the amygdala.",
     "clues": [
-      "I am the Henry and Lucy Moses Professor of Science at New York University, and director of the Emotional Brain Institute, a collaboration between NYU and New York State with research sites at NYU and the Nathan Kline Institute for Psychiatric Research in Orangeburg, New York.",
-      "I am often described as american neuroscientist.",
-      "Examiners still ask this name as a one-line identification."
+      "I am an American neuroscientist of emotion.",
+      "I described a quick path to the amygdala and a slower cortical path.",
+      "Fear is the emotion I mapped."
     ],
-    "also": "I am the Henry and Lucy Moses Professor of Science at New York University, and director of the Emotional Brain Institute, a collaboration between NYU and New York State with research sites at NYU and the Nathan Kline Institute for Psychiatric Research in Orangeburg, New York.",
+    "also": "Damasio is markers for choice. This man is fear circuitry.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Joseph_E._LeDoux",
     "has_photo": false,
-    "hook": "American neuroscientist",
+    "hook": "Fear has a fast road through the amygdala.",
     "remember": [
-      "American neuroscientist",
-      "the Henry and Lucy Moses Professor of Science at New York University, and director of the Emotional Brain Institute, a collaboration between NYU and New York St"
+      "Low road vs high road.",
+      "The Emotional Brain.",
+      "NYU."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Damasio is markers for choice. This man is fear circuitry.",
+    "pair": "Damasio, Cannon."
   },
   {
     "id": "martin-seligman",
@@ -1391,71 +1433,75 @@ window.WHO = [
     "name": "Nancy Coover Andreasen",
     "years": "",
     "era": "History",
-    "one": "American neuroscientist",
-    "hold": "I am an American neuroscientist and neuropsychiatrist.",
+    "one": "She measured thought disorder and used scans in schizophrenia.",
+    "hold": "She measured thought disorder and used scans in schizophrenia.",
     "clues": [
-      "I am an American neuroscientist and neuropsychiatrist.",
-      "She currently holds the Andrew H.",
-      "I am often described as american neuroscientist."
+      "I am an American neuropsychiatrist.",
+      "I wrote scales for positive and negative symptoms.",
+      "I also used brain imaging in schizophrenia."
     ],
-    "also": "She currently holds the Andrew H.",
+    "also": "Crow named Type I/II. She built scales and imaging.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Nancy_Coover_Andreasen",
     "has_photo": false,
-    "hook": "American neuroscientist",
+    "hook": "She measured thought disorder and used scans in schizophrenia.",
     "remember": [
-      "American neuroscientist",
-      "She currently holds the Andrew H"
+      "SANS / SAPS, later PANSS neighbourhood.",
+      "Iowa.",
+      "Positive vs negative as research tools."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Crow named Type I/II. She built scales and imaging.",
+    "pair": "Crow, Carpenter."
   },
   {
     "id": "nathaniel-kleitman",
     "name": "Nathaniel Kleitman",
     "years": "1895–1999",
     "era": "History",
-    "one": "American sleep researcher",
-    "hold": "I was an American physiologist and sleep researcher who served as Professor Emeritus in Physiology at the University of Chicago.",
+    "one": "Father of modern sleep research. The Chicago lab.",
+    "hold": "Father of modern sleep research. The Chicago lab.",
     "clues": [
-      "I was an American physiologist and sleep researcher who served as Professor Emeritus in Physiology at the University of Chicago.",
-      "I am recognized as the father of modern sleep research, and is the author of the seminal 1939 book Sleep and Wakefulness.",
-      "I am often described as american sleep researcher."
+      "I ran the sleep laboratory at the University of Chicago.",
+      "I wrote the 1939 book Sleep and Wakefulness.",
+      "A graduate student in my lab found rapid eye movements."
     ],
-    "also": "I am recognized as the father of modern sleep research, and is the author of the seminal 1939 book Sleep and Wakefulness.",
+    "also": "He did not discover REM. His student did.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Nathaniel_Kleitman",
     "has_photo": false,
-    "hook": "American sleep researcher",
+    "hook": "Father of modern sleep research. The Chicago lab.",
     "remember": [
-      "American sleep researcher",
-      "recognized as the father of modern sleep research, and is the author of the seminal 1939 book Sleep and Wakefulness"
+      "Sleep and Wakefulness, 1939.",
+      "Aserinsky found REM in his lab.",
+      "Mammoth Cave time-isolation study."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He did not discover REM. His student did.",
+    "pair": "Aserinsky, Dement."
   },
   {
     "id": "santiago-ram-n-y-cajal",
     "name": "Santiago Ramón y Cajal",
     "years": "1852–1934",
     "era": "History",
-    "one": "Spanish scientist",
-    "hold": "I was a Spanish neuroscientist, pathologist, and histologist specialising in neuroanatomy, and the central nervous system.",
+    "one": "Neurons are separate cells. The drawings still teach.",
+    "hold": "Neurons are separate cells. The drawings still teach.",
     "clues": [
-      "I was a Spanish neuroscientist, pathologist, and histologist specialising in neuroanatomy, and the central nervous system.",
-      "He and Camillo Golgi received the Nobel Prize in Physiology or Medicine in 1906.",
-      "I am often described as spanish scientist."
+      "I was a Spanish histologist who drew nerve cells.",
+      "I argued each nerve cell is a separate unit, not a fused net.",
+      "I shared the 1906 Nobel Prize with the man who invented the stain."
     ],
-    "also": "He and Camillo Golgi received the Nobel Prize in Physiology or Medicine in 1906.",
+    "also": "Golgi stained them and thought they joined. This man said they do not.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Santiago_Ram%C3%B3n_y_Cajal_%281852-1934%29_portrait_%28restored%29.jpg/500px-Santiago_Ram%C3%B3n_y_Cajal_%281852-1934%29_portrait_%28restored%29.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
     "has_photo": true,
-    "hook": "Spanish scientist",
+    "hook": "Neurons are separate cells. The drawings still teach.",
     "remember": [
-      "He and Camillo Golgi received the Nobel Prize in Physiology or Medicine in 1906"
+      "Neuron doctrine.",
+      "Nobel 1906 with Golgi.",
+      "Spanish histologist."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Golgi stained them and thought they joined. This man said they do not.",
+    "pair": "Golgi, Sherrington."
   },
   {
     "id": "shitij-kapur",
@@ -1492,7 +1538,7 @@ window.WHO = [
     "clues": [
       "I was an Italian physician who helped introduce humanitarian reforms to the psychiatric hospital care of people with mental disorders.",
       "His early part in a movement towards moral treatment was relatively overlooked until a gradual reassessment through the 20th century left his reforms described as a landmark in the history of psychiatry.",
-      "I am often described as italian psychiatrist."
+      "A finding from this life is still asked in exams."
     ],
     "also": "His early part in a movement towards moral treatment was relatively overlooked until a gradual reassessment through the 20th century left his reforms described as a landmark in the history of psychiatry.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vincenzo_Chiarugi.jpg",
@@ -1510,167 +1556,175 @@ window.WHO = [
     "name": "Wilder Penfield",
     "years": "1891–1976",
     "era": "History",
-    "one": "Canadian neurosurgeon, college football player and coach",
-    "hold": "I was an American-Canadian neurosurgeon.",
+    "one": "He touched the cortex in awake patients and mapped it.",
+    "hold": "He touched the cortex in awake patients and mapped it.",
     "clues": [
       "I was an American-Canadian neurosurgeon.",
-      "He expanded brain surgery's methods and techniques, including mapping the functions of various regions of the brain such as the cortical homunculus.",
-      "I am often described as canadian neurosurgeon, college football player and coach."
+      "I operated on awake patients with epilepsy and stimulated the exposed cortex.",
+      "The sensory and motor homunculus comes from that work."
     ],
-    "also": "He expanded brain surgery's methods and techniques, including mapping the functions of various regions of the brain such as the cortical homunculus.",
+    "also": "Brodmann numbered cells. This man mapped function in the living.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Wilder_Graves_Penfield.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Wilder_Penfield",
     "has_photo": true,
-    "hook": "Canadian neurosurgeon, college football player and coach",
+    "hook": "He touched the cortex in awake patients and mapped it.",
     "remember": [
-      "Canadian neurosurgeon, college football player and coach",
-      "He expanded brain surgery's methods and techniques, including mapping the functions of various regions of the brain such as the cortical homunculus"
+      "Montreal procedure.",
+      "Homunculus.",
+      "Stimulation could recall memories and auras."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Brodmann numbered cells. This man mapped function in the living.",
+    "pair": "Milner worked in his institute. Hughlings Jackson is the older epilepsy thinker."
   },
   {
     "id": "wilhelm-wundt",
     "name": "Wilhelm Wundt",
     "years": "1832–1920",
     "era": "History",
-    "one": "German physician, physiologist, philosopher and professor",
-    "hold": "I was a German physiologist, philosopher, professor, and one of the fathers of modern psychology.",
+    "one": "1879 Leipzig. The first psychology laboratory.",
+    "hold": "1879 Leipzig. The first psychology laboratory.",
     "clues": [
-      "I was a German physiologist, philosopher, professor, and one of the fathers of modern psychology.",
-      "I am often described as german physician, physiologist, philosopher and professor.",
-      "Examiners still ask this name as a one-line identification."
+      "I was a German physiologist who opened a laboratory in 1879.",
+      "That lab is usually called the start of experimental psychology.",
+      "I trained students who then spread the method."
     ],
-    "also": "Wundt, who distinguished psychology as a science from philosophy and biology, was the first person to call himself a psychologist.",
+    "also": "James taught the first American course. This man built the German lab.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wilhelm_Wundt.jpg/500px-Wilhelm_Wundt.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Wilhelm_Wundt",
     "has_photo": true,
-    "hook": "German physician, physiologist, philosopher and professor",
+    "hook": "1879 Leipzig. The first psychology laboratory.",
     "remember": [
-      "German physician, physiologist, philosopher and professor",
-      "Wundt, who distinguished psychology as a science from philosophy and biology, was the first person to call himself a psychologist"
+      "Experimental psychology as a discipline.",
+      "Introspection, but trained.",
+      "Titchener carried a version to America."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "James taught the first American course. This man built the German lab.",
+    "pair": "Titchener, James, Fechner."
   },
   {
     "id": "william-battie",
     "name": "William Battie",
     "years": "",
     "era": "History",
-    "one": "British physician",
-    "hold": "I was an English physician who published, in 1758, A Treatise on Madness, a highly influential book on the use of institutionalisation and shock therapy as methods of treating mental illness.",
+    "one": "1758. A Treatise on Madness. Asylums as medical, not only moral.",
+    "hold": "1758. A Treatise on Madness. Asylums as medical, not only moral.",
     "clues": [
-      "I was an English physician who published, in 1758, A Treatise on Madness, a highly influential book on the use of institutionalisation and shock therapy as methods of treating mental illness.",
-      "I was President of the Royal College of Physicians in 1764.",
-      "I am often described as british physician."
+      "I was an English physician in the eighteenth century.",
+      "In 1758 I published A Treatise on Madness.",
+      "I argued that madness belonged in a medical institution."
     ],
-    "also": "I was President of the Royal College of Physicians in 1764.",
+    "also": "Pinel is later and French. This is Georgian London.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Portrait_of_William_Battie._Wellcome_M0006690.jpg/500px-Portrait_of_William_Battie._Wellcome_M0006690.jpg",
     "wiki": "https://en.wikipedia.org/wiki/William_Battie",
     "has_photo": true,
-    "hook": "British physician",
+    "hook": "1758. A Treatise on Madness. Asylums as medical, not only moral.",
     "remember": [
-      "President of the Royal College of Physicians in 1764"
+      "St Luke's.",
+      "President of the Royal College of Physicians.",
+      "Early institutional psychiatry."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Pinel is later and French. This is Georgian London.",
+    "pair": "Tuke (kindness). This man is medical custody."
   },
   {
     "id": "william-c-dement",
     "name": "William C. Dement",
     "years": "1928–2020",
     "era": "History",
-    "one": "American sleep researcher",
-    "hold": "I was an American sleep researcher and founder of the Sleep Research Center at Stanford University.",
+    "one": "Stanford sleep clinic. He took REM into medicine.",
+    "hold": "Stanford sleep clinic. He took REM into medicine.",
     "clues": [
-      "I was an American sleep researcher and founder of the Sleep Research Center at Stanford University.",
-      "I was a leading authority on sleep, sleep deprivation and the diagnosis and treatment of sleep disorders such as sleep apnea and narcolepsy.",
-      "I am often described as american sleep researcher."
+      "I founded the sleep research centre at Stanford.",
+      "I turned sleep deprivation and sleep apnoea into ordinary clinic work.",
+      "I had trained in the Chicago laboratory that found rapid eye movements."
     ],
-    "also": "I was a leading authority on sleep, sleep deprivation and the diagnosis and treatment of sleep disorders such as sleep apnea and narcolepsy.",
+    "also": "Aserinsky saw REM. This man built the clinic.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/William_C._Dement",
     "has_photo": false,
-    "hook": "American sleep researcher",
+    "hook": "Stanford sleep clinic. He took REM into medicine.",
     "remember": [
-      "American sleep researcher",
-      "a leading authority on sleep, sleep deprivation and the diagnosis and treatment of sleep disorders such as sleep apnea and narcolepsy"
+      "Student of Kleitman.",
+      "Sleep disorders as a clinical field.",
+      "Sleep debt."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Aserinsky saw REM. This man built the clinic.",
+    "pair": "Kleitman, Aserinsky."
   },
   {
     "id": "william-james",
     "name": "William James",
     "years": "1842–1910",
     "era": "History",
-    "one": "American philosopher, psychologist, and pragmatist",
-    "hold": "I was an American philosopher and psychologist.",
+    "one": "The first great American psychologist. Stream of consciousness. Emotion from the body.",
+    "hold": "The first great American psychologist. Stream of consciousness. Emotion from the body.",
     "clues": [
-      "I was an American philosopher and psychologist.",
-      "The first educator to offer a psychology course in the United States, he is considered to be one of the leading thinkers of the late 19th century, one of the most influential philosophers and is often dubbed the \"father of American psychology\".",
-      "I am often described as american philosopher, psychologist, and pragmatist."
+      "I taught the first psychology course in the United States.",
+      "I wrote The Principles of Psychology in 1890.",
+      "I said we are sad because we cry, not the other way around."
     ],
-    "also": "The first educator to offer a psychology course in the United States, he is considered to be one of the leading thinkers of the late 19th century, one of the most influential philosophers and is often dubbed the \"father of American psychology\".",
+    "also": "Cannon argued the brain fires feeling and body together. This man said we feel because the body has already moved.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/William_James_b1842c.jpg/500px-William_James_b1842c.jpg",
     "wiki": "https://en.wikipedia.org/wiki/William_James",
     "has_photo": true,
-    "hook": "American philosopher, psychologist, and pragmatist",
+    "hook": "The first great American psychologist. Stream of consciousness. Emotion from the body.",
     "remember": [
-      "American philosopher, psychologist, and pragmatist",
-      "The first educator to offer a psychology course in the United States, he is considered to be one of the leading thinkers of the late 19th century, one of the mo"
+      "Principles of Psychology, 1890.",
+      "James–Lange theory of emotion.",
+      "Pragmatism."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Cannon argued the brain fires feeling and body together. This man said we feel because the body has already moved.",
+    "pair": "Cannon, Wundt."
   },
   {
     "id": "william-masters",
     "name": "William Masters",
     "years": "1915–2001",
     "era": "History",
-    "one": "American gynecologist",
-    "hold": "I was an American gynecologist and the senior member of the Masters and Johnson human sexuality research team.",
+    "one": "Laboratory sex research with Johnson. Four-stage response.",
+    "hold": "Laboratory sex research with Johnson. Four-stage response.",
     "clues": [
-      "I was an American gynecologist and the senior member of the this person and Johnson human sexuality research team.",
-      "Along with his partner Virginia E.",
-      "I am often described as american gynecologist."
+      "I was an American gynaecologist who studied sex in the laboratory.",
+      "I worked with a woman colleague whose name is always paired with mine.",
+      "We described a four-stage sexual response cycle."
     ],
-    "also": "Along with his partner Virginia E.",
+    "also": "Kinsey interviewed. This pair observed.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/William_Masters",
     "has_photo": false,
-    "hook": "American gynecologist",
+    "hook": "Laboratory sex research with Johnson. Four-stage response.",
     "remember": [
-      "American gynecologist",
-      "Along with his partner Virginia E"
+      "Excitement, plateau, orgasm, resolution.",
+      "Human Sexual Response, 1966.",
+      "He was the gynaecologist of the pair."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Kinsey interviewed. This pair observed.",
+    "pair": "Kinsey, Johnson."
   },
   {
     "id": "william-tuke",
     "name": "William Tuke",
     "years": "1732–1822",
     "era": "History",
-    "one": "English businessman and philanthropist",
-    "hold": "I was an English tradesman, philanthropist and Quaker, earned fame for promoting more humane custody and care for people with mental disorders, using what he called gentler methods that came to be known as moral treatment.",
+    "one": "The Retreat at York. Quaker moral treatment in England.",
+    "hold": "The Retreat at York. Quaker moral treatment in England.",
     "clues": [
-      "I was an English tradesman, philanthropist and Quaker, earned fame for promoting more humane custody and care for people with mental disorders, using what he called gentler methods that came to be known as moral treatment.",
-      "He played a big part in founding The Retreat at Lamel Hill, York, for treating mental-health needs.",
-      "I am often described as english businessman and philanthropist."
+      "I was an English Quaker and a tea merchant, not a doctor.",
+      "I helped found a retreat near York for kinder care of the insane.",
+      "The year usually given is 1796."
     ],
-    "also": "He played a big part in founding The Retreat at Lamel Hill, York, for treating mental-health needs.",
+    "also": "Pinel is Paris. This is York.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/William_Tuke._Etching_by_C._Callet._Wellcome_V0005922.jpg/500px-William_Tuke._Etching_by_C._Callet._Wellcome_V0005922.jpg",
     "wiki": "https://en.wikipedia.org/wiki/William_Tuke",
     "has_photo": true,
-    "hook": "English businessman and philanthropist",
+    "hook": "The Retreat at York. Quaker moral treatment in England.",
     "remember": [
-      "English businessman and philanthropist",
-      "He played a big part in founding The Retreat at Lamel Hill, York, for treating mental-health needs"
+      "Opened 1796.",
+      "Kindness, work, no chains as the ideal.",
+      "Different man from Daniel Hack Tuke."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Pinel is Paris. This is York.",
+    "pair": "Pinel, Dix, Daniel Hack Tuke."
   },
   {
     "id": "banks-v-goodfellow",
@@ -1703,23 +1757,25 @@ window.WHO = [
     "name": "Gustav Fechner",
     "years": "1801–1887",
     "era": "Law",
-    "one": "German scientist",
-    "hold": "I was a German physicist, philosopher, and experimental psychologist.",
+    "one": "He tried to measure the mind. Psychophysics.",
+    "hold": "He tried to measure the mind. Psychophysics.",
     "clues": [
-      "I was a German physicist, philosopher, and experimental psychologist.",
-      "A pioneer in experimental psychology and founder of psychophysics (techniques for measuring the mind), he inspired many 20th-century scientists and philosophers.",
-      "I am often described as german scientist."
+      "I was a German physicist who tried to measure sensation with numbers.",
+      "I said felt intensity rises with the logarithm of the stimulus.",
+      "That work is called psychophysics."
     ],
-    "also": "A pioneer in experimental psychology and founder of psychophysics (techniques for measuring the mind), he inspired many 20th-century scientists and philosophers.",
+    "also": "Wundt built the lab. This man wrote the equation.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gustav_Fechner.jpg/500px-Gustav_Fechner.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Gustav_Fechner",
     "has_photo": true,
-    "hook": "German scientist",
+    "hook": "He tried to measure the mind. Psychophysics.",
     "remember": [
-      "A pioneer in experimental psychology and founder of psychophysics (techniques for measuring the mind), he inspired many 20th-century scientists and philosophers"
+      "Fechner's law: sensation ~ log stimulus.",
+      "Weber–Fechner.",
+      "Father of experimental measurement of experience."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Wundt built the lab. This man wrote the equation.",
+    "pair": "Wundt, Weber."
   },
   {
     "id": "aaron-beck",
@@ -1752,23 +1808,25 @@ window.WHO = [
     "name": "Alfred Kinsey",
     "years": "1894–1956",
     "era": "Learning",
-    "one": "American sexologist",
-    "hold": "I was an American sexologist, biologist, and professor of entomology and zoology who, in 1947, founded the Institute for Sex Research at Indiana University, now known as the Kinsey Institute for Research in Sex, Gender, and Reproduction.",
+    "one": "He asked thousands of Americans about their sex lives.",
+    "hold": "He asked thousands of Americans about their sex lives.",
     "clues": [
-      "I was an American sexologist, biologist, and professor of entomology and zoology who, in 1947, founded the Institute for Sex Research at Indiana University, now known as the this person Institute for Research in Sex, Gender, and Reproduction.",
-      "I am best known for writing Sexual Behavior in the Human Male and Sexual Behavior in the Human Female, also known as the this person Reports, as well as for the this person scale.",
-      "I am often described as american sexologist."
+      "I was an American biologist who first studied insects.",
+      "I then interviewed thousands of people about their sexual lives.",
+      "The two famous reports came out in 1948 and 1953."
     ],
-    "also": "I am best known for writing Sexual Behavior in the Human Male and Sexual Behavior in the Human Female, also known as the Kinsey Reports, as well as for the Kinsey scale.",
+    "also": "Masters and Johnson watched. This man interviewed.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Alfred_Kinsey_1955.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Alfred_Kinsey",
     "has_photo": true,
-    "hook": "American sexologist",
+    "hook": "He asked thousands of Americans about their sex lives.",
     "remember": [
-      "best known for writing Sexual Behavior in the Human Male and Sexual Behavior in the Human Female, also known as the Kinsey Reports, as well as for the Kinsey sc"
+      "Male volume 1948, female 1953.",
+      "The continuum, not two boxes.",
+      "Entomologist first."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Masters and Johnson watched. This man interviewed.",
+    "pair": "Masters."
   },
   {
     "id": "arnold-pick",
@@ -1829,8 +1887,8 @@ window.WHO = [
     "hold": "I was an American psychologist who sought to explain learning and motivation by scientific laws of behavior.",
     "clues": [
       "I was an American psychologist who sought to explain learning and motivation by scientific laws of behavior.",
-      "I am often described as american psychologist.",
-      "Examiners still ask this name as a one-line identification."
+      "A finding from this life is still asked in exams.",
+      "The next clue names the work, not the person."
     ],
     "also": "Hull is known for his debates with Edward C.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Clark_Leonard_Hull.jpg/500px-Clark_Leonard_Hull.jpg",
@@ -1849,24 +1907,25 @@ window.WHO = [
     "name": "Edward Thorndike",
     "years": "",
     "era": "Learning",
-    "one": "American psychologist",
-    "hold": "Edward Lee ThorndikeAugust 31, 1874 –August 9, 1949) was an American psychologist who spent nearly his entire career at Teachers College, Columbia University.",
+    "one": "Cats in a puzzle box. Law of effect.",
+    "hold": "Cats in a puzzle box. Law of effect.",
     "clues": [
-      "His work on comparative psychology and the learning process led to his \"theory of connectionism\" and helped lay the scientific foundation for educational psychology.",
-      "I am often described as american psychologist.",
-      "Examiners still ask this name as a one-line identification."
+      "I put cats in a box and timed how they learned to escape.",
+      "I said a satisfying result stamps a connection in.",
+      "That is the law of effect."
     ],
-    "also": "His work on comparative psychology and the learning process led to his \"theory of connectionism\" and helped lay the scientific foundation for educational psychology.",
+    "also": "Pavlov is pairing. This man is consequence in animals.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/PSM_V80_D211_Edward_Lee_Thorndike.png/500px-PSM_V80_D211_Edward_Lee_Thorndike.png",
     "wiki": "https://en.wikipedia.org/wiki/Edward_Thorndike",
     "has_photo": true,
-    "hook": "American psychologist",
+    "hook": "Cats in a puzzle box. Law of effect.",
     "remember": [
-      "American psychologist",
-      "His work on comparative psychology and the learning process led to his \"theory of connectionism\" and helped lay the scientific foundation for educational psycho"
+      "Connectionism.",
+      "Satisfying results stamp a habit in.",
+      "Bridge to Skinner."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Pavlov is pairing. This man is consequence in animals.",
+    "pair": "Skinner, Pavlov."
   },
   {
     "id": "herbert-y-meltzer",
@@ -1877,8 +1936,8 @@ window.WHO = [
     "hold": "Meltzer is an American scientist and professor of psychiatry and behavioral sciences, pharmacology and physiology and director of the Translational Neuropharmacology Program at Northwestern University, best known for his research on the treatment of schizophrenia.",
     "clues": [
       "I am the author of over 1,000 publications.",
-      "I am often described as american neuropharmacologist.",
-      "Examiners still ask this name as a one-line identification."
+      "A finding from this life is still asked in exams.",
+      "The next clue names the work, not the person."
     ],
     "also": "I am the author of over 1,000 publications.",
     "img": "",
@@ -1897,24 +1956,25 @@ window.WHO = [
     "name": "Irving Gottesman",
     "years": "1930–2016",
     "era": "Learning",
-    "one": "American psychiatric geneticist",
-    "hold": "I was an American professor of psychology who devoted most of his career to the study of the genetics of schizophrenia.",
+    "one": "Schizophrenia runs in families. Twin and adoption numbers.",
+    "hold": "Schizophrenia runs in families. Twin and adoption numbers.",
     "clues": [
-      "I was an American professor of psychology who devoted most of his career to the study of the genetics of schizophrenia.",
-      "He wrote 17 books and more than 290 other publications, mostly on schizophrenia and behavioral genetics, and created the first academic program on behavioral genetics in the United States.",
-      "I am often described as american psychiatric geneticist."
+      "I was an American psychologist who spent a career on the genetics of schizophrenia.",
+      "I used twins and the idea of an unseen liability that crosses a threshold.",
+      "I also wrote about endophenotypes."
     ],
-    "also": "He wrote 17 books and more than 290 other publications, mostly on schizophrenia and behavioral genetics, and created the first academic program on behavioral genetics in the United States.",
+    "also": "He did not say one gene. He said heritability plus environment.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Irving_Gottesman",
     "has_photo": false,
-    "hook": "American psychiatric geneticist",
+    "hook": "Schizophrenia runs in families. Twin and adoption numbers.",
     "remember": [
-      "American psychiatric geneticist",
-      "He wrote 17 books and more than 290 other publications, mostly on schizophrenia and behavioral genetics, and created the first academic program on behavioral ge"
+      "Endophenotype.",
+      "Liability-threshold model.",
+      "Classic twin data every viva still quotes."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He did not say one gene. He said heritability plus environment.",
+    "pair": "Kety (adoption). Murray (development)."
   },
   {
     "id": "ivan-pavlov",
@@ -2020,48 +2080,50 @@ window.WHO = [
     "name": "Ole Ivar Lovaas",
     "years": "1927–2010",
     "era": "Learning",
-    "one": "Norwegian-American psychologist",
-    "hold": "I was a Norwegian-American clinical psychologist and professor at the University of California, Los Angeles.",
+    "one": "Early intensive behavioural work with autistic children. ABA lineage.",
+    "hold": "Early intensive behavioural work with autistic children. ABA lineage.",
     "clues": [
-      "I was a Norwegian-American clinical psychologist and professor at the University of California, Los Angeles.",
-      "I was best known for his research on what is now called applied behavior analysis (ABA) to modify the behavior of autistic children through prompts, modeling, and positive reinforcement.",
-      "I am often described as norwegian-American psychologist."
+      "I was a Norwegian-American psychologist at UCLA.",
+      "I used long hours of behavioural drills with autistic children.",
+      "That line of work became applied behaviour analysis."
     ],
-    "also": "I was best known for his research on what is now called applied behavior analysis (ABA) to modify the behavior of autistic children through prompts, modeling, and positive reinforcement.",
+    "also": "He is treatment history, not the first describer of autism.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Ole_Ivar_Lovaas",
     "has_photo": false,
-    "hook": "Norwegian-American psychologist",
+    "hook": "Early intensive behavioural work with autistic children. ABA lineage.",
     "remember": [
-      "Norwegian-American psychologist",
-      "best known for his research on what is now called applied behavior analysis (ABA) to modify the behavior of autistic children through prompts, modeling, and pos"
+      "UCLA.",
+      "Discrete trial training.",
+      "Ethics and intensity are now debated."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He is treatment history, not the first describer of autism.",
+    "pair": "Kanner, Wing."
   },
   {
     "id": "seymour-s-kety",
     "name": "Seymour S. Kety",
     "years": "1915–2000",
     "era": "Learning",
-    "one": "American neuroscientist",
-    "hold": "Kety was an American neuroscientist who was credited with making modern psychiatry a rigorous and heuristic branch of medicine by applying basic science to the study of human behavior in health and disease.",
+    "one": "Adoption studies: schizophrenia follows the biological family.",
+    "hold": "Adoption studies: schizophrenia follows the biological family.",
     "clues": [
-      "I am often described as american neuroscientist.",
-      "Examiners still ask this name.",
-      "Examiners still ask this name as a one-line identification."
+      "I was an American neuroscientist who used adoption to study schizophrenia.",
+      "Illness followed the biological relatives more than the adoptive home.",
+      "I also helped measure blood flow in the living brain."
     ],
-    "also": "I am often described as american neuroscientist.",
+    "also": "Gottesman is twins. This man is adoption.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Seymour_S._Kety",
     "has_photo": false,
-    "hook": "American neuroscientist",
+    "hook": "Adoption studies: schizophrenia follows the biological family.",
     "remember": [
-      "American neuroscientist",
-      "american neuroscientist"
+      "Danish–American adoption data.",
+      "Also cerebral blood flow methods.",
+      "Separates genes from the raising home."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Gottesman is twins. This man is adoption.",
+    "pair": "Gottesman."
   },
   {
     "id": "alec-coppen",
@@ -2072,8 +2134,8 @@ window.WHO = [
     "hold": "I was given The Pioneers in Psychopharmacology Award in year 2000 by the Collegium Internationale Neuro Psychopharmacologicum.",
     "clues": [
       "I was given The Pioneers in Psychopharmacology Award in year 2000 by the Collegium Internationale Neuro Psychopharmacologicum.",
-      "I am often described as british psychiatrist.",
-      "Examiners still ask this name as a one-line identification."
+      "A finding from this life is still asked in exams.",
+      "The next clue names the work, not the person."
     ],
     "also": "Coppen was born in London, England in January 1923.",
     "img": "",
@@ -2116,48 +2178,50 @@ window.WHO = [
     "name": "Frank Berger",
     "years": "",
     "era": "Medicines",
-    "one": "Czechoslovakian pharmacologist who discovered meprobamate, carisoprodol, and felbamate",
-    "hold": "He discovered meprobamate, carisoprodol, and felbamate, while working at Wallace Laboratories.",
+    "one": "Meprobamate. The first widely used minor tranquilliser.",
+    "hold": "Meprobamate. The first widely used minor tranquilliser.",
     "clues": [
-      "He discovered meprobamate, carisoprodol, and felbamate, while working at Wallace Laboratories.",
-      "He also discovered the 'tranquilising' effects of mephenesin in rodents while working at a laboratory in the United Kingdom, and campaigned against the advertising of medications in the mass media.",
-      "I am often described as czechoslovakian pharmacologist who discovered meprobamate, carisoprodol, and felbamate."
+      "I discovered a calmative that was not a barbiturate.",
+      "The first famous one was meprobamate.",
+      "Benzodiazepines came later from another chemist."
     ],
-    "also": "He also discovered the 'tranquilising' effects of mephenesin in rodents while working at a laboratory in the United Kingdom, and campaigned against the advertising of medications in the mass media.",
+    "also": "Sternbach is benzodiazepines. This man is meprobamate.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Frank_Berger",
     "has_photo": false,
-    "hook": "Czechoslovakian pharmacologist who discovered meprobamate, carisoprodol, and felbamate",
+    "hook": "Meprobamate. The first widely used minor tranquilliser.",
     "remember": [
-      "Czechoslovakian pharmacologist who discovered meprobamate, carisoprodol, and felbamate",
-      "He also discovered the 'tranquilising' effects of mephenesin in rodents while working at a laboratory in the United Kingdom, and campaigned against the advertis"
+      "Also carisoprodol and felbamate.",
+      "Before benzodiazepines.",
+      "Anxiolytic history viva."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Sternbach is benzodiazepines. This man is meprobamate.",
+    "pair": "Sternbach."
   },
   {
     "id": "heinz-lehmann",
     "name": "Heinz Lehmann",
     "years": "",
     "era": "Medicines",
-    "one": "German-born Canadian psychiatrist",
-    "hold": "I was a German-born Canadian psychiatrist best known for his use of chlorpromazine for the treatment of schizophrenia in 1950s and \"truly the father of modern psychopharmacology.\".",
+    "one": "He brought chlorpromazine into North American practice.",
+    "hold": "He brought chlorpromazine into North American practice.",
     "clues": [
-      "I was a German-born Canadian psychiatrist best known for his use of chlorpromazine for the treatment of schizophrenia in 1950s and \"truly the father of modern psychopharmacology.\".",
-      "I am often described as german-born Canadian psychiatrist.",
-      "Examiners still ask this name."
+      "I was a German-born Canadian psychiatrist.",
+      "In the 1950s I used a new French antipsychotic on this side of the Atlantic.",
+      "That drug was chlorpromazine."
     ],
-    "also": "I am often described as german-born Canadian psychiatrist.",
+    "also": "He did not synthesise the drug.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dr_Heinz_Edgar_Lehmann.jpg/500px-Dr_Heinz_Edgar_Lehmann.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Heinz_Lehmann",
     "has_photo": true,
-    "hook": "German-born Canadian psychiatrist",
+    "hook": "He brought chlorpromazine into North American practice.",
     "remember": [
-      "German-born Canadian psychiatrist",
-      "german-born Canadian psychiatrist"
+      "German-born Canadian.",
+      "Montreal, 1950s.",
+      "Delay/Deniker found it. This man used it widely in Canada."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "He did not synthesise the drug.",
+    "pair": "Delay, Deniker."
   },
   {
     "id": "jean-delay",
@@ -2240,24 +2304,25 @@ window.WHO = [
     "name": "Leo Sternbach",
     "years": "",
     "era": "Medicines",
-    "one": "Polish-American chemist",
-    "hold": "I was a Polish American chemist credited with the first synthesis of benzodiazepines, the most widely-used class of minor tranquilizers.",
+    "one": "He made the first benzodiazepines.",
+    "hold": "He made the first benzodiazepines.",
     "clues": [
-      "I was a Polish American chemist credited with the first synthesis of benzodiazepines, the most widely-used class of minor tranquilizers.",
-      "I am often described as polish-American chemist.",
-      "Examiners still ask this name."
+      "I was a chemist, not a psychiatrist.",
+      "I synthesised the first drugs of the benzodiazepine class.",
+      "Chlordiazepoxide and diazepam came from that work."
     ],
-    "also": "I am often described as polish-American chemist.",
+    "also": "Berger is meprobamate. This man is the benzo ring.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Leo_Sternbach",
     "has_photo": false,
-    "hook": "Polish-American chemist",
+    "hook": "He made the first benzodiazepines.",
     "remember": [
-      "Polish-American chemist",
-      "polish-American chemist"
+      "Chlordiazepoxide, then diazepam.",
+      "Polish-American chemist at Roche.",
+      "Minor tranquillisers of the 1960s."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Berger is meprobamate. This man is the benzo ring.",
+    "pair": "Berger."
   },
   {
     "id": "mogens-schou",
@@ -2513,48 +2578,50 @@ window.WHO = [
     "name": "R. D. Laing",
     "years": "",
     "era": "Psychosis",
-    "one": "unorthodox Scottish psychiatrist",
-    "hold": "Laing, was a Scottish psychiatrist who wrote extensively on mental illness, particularly psychosis and schizophrenia.",
+    "one": "Madness as a sane response to an impossible family.",
+    "hold": "Madness as a sane response to an impossible family.",
     "clues": [
-      "Politically, this person was regarded as a thinker of the New Left.",
-      "I am often described as unorthodox Scottish psychiatrist.",
-      "Examiners still ask this name as a one-line identification."
+      "I was a Scottish psychiatrist of the 1960s.",
+      "I wrote The Divided Self.",
+      "I treated psychosis as something one could understand in a family, not only as a broken brain."
     ],
-    "also": "Politically, Laing was regarded as a thinker of the New Left.",
+    "also": "Szasz said mental illness is a myth. This man said it is intelligible.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ronald_D._Laing.jpg",
     "wiki": "https://en.wikipedia.org/wiki/R._D._Laing",
     "has_photo": true,
-    "hook": "Unorthodox Scottish psychiatrist",
+    "hook": "Madness as a sane response to an impossible family.",
     "remember": [
-      "unorthodox Scottish psychiatrist",
-      "Politically, Laing was regarded as a thinker of the New Left"
+      "The Divided Self.",
+      "Anti-psychiatry neighbourhood, though he disliked the label.",
+      "Scottish."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Szasz said mental illness is a myth. This man said it is intelligible.",
+    "pair": "Szasz, Basaglia."
   },
   {
     "id": "robin-murray",
     "name": "Robin Murray",
     "years": "",
     "era": "Psychosis",
-    "one": "Scottish psychiatrist",
-    "hold": "I am a British psychiatrist, Professor of Psychiatric Research at the Institute of Psychiatry, King's College London.",
+    "one": "Schizophrenia as neurodevelopmental, plus cannabis as a risk.",
+    "hold": "Schizophrenia as neurodevelopmental, plus cannabis as a risk.",
     "clues": [
-      "I am a British psychiatrist, Professor of Psychiatric Research at the Institute of Psychiatry, King's College London.",
-      "He has treated patients with schizophrenia and bipolar illness referred to the National Psychosis Unit of the South London and Maudsley NHS Trust because they fail to respond to treatment, or cannot get appropriate treatment, locally; he sees patients privately if they are unable to obtain an NHS referral.",
-      "I am often described as scottish psychiatrist."
+      "I am a British psychiatrist at the Institute of Psychiatry.",
+      "I treat referred psychotic patients and argue the illness starts in development.",
+      "I also write about cannabis as a risk factor."
     ],
-    "also": "He has treated patients with schizophrenia and bipolar illness referred to the National Psychosis Unit of the South London and Maudsley NHS Trust because they fail to respond to treatment, or cannot get appropriate treatment, locally; he sees patients privately if they are unable to obtain an NHS referral.",
+    "also": "Gottesman is genes/twins. This man is development and environment.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Robin_Murray_at_the_Mental_Health_conference_in_Hanover%2C_April_2013_-_IMAG5320-cropped.png/500px-Robin_Murray_at_the_Mental_Health_conference_in_Hanover%2C_April_2013_-_IMAG5320-cropped.png",
     "wiki": "https://en.wikipedia.org/wiki/Robin_Murray",
     "has_photo": true,
-    "hook": "Scottish psychiatrist",
+    "hook": "Schizophrenia as neurodevelopmental, plus cannabis as a risk.",
     "remember": [
-      "Scottish psychiatrist",
-      "He has treated patients with schizophrenia and bipolar illness referred to the National Psychosis Unit of the South London and Maudsley NHS Trust because they f"
+      "Institute of Psychiatry, London.",
+      "Obstetric events, urbanicity, migration, cannabis.",
+      "National Psychosis Unit."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Gottesman is genes/twins. This man is development and environment.",
+    "pair": "Weinberger, Gottesman."
   },
   {
     "id": "sergei-korsakov",
@@ -2612,23 +2679,25 @@ window.WHO = [
     "name": "Hans Eysenck",
     "years": "1916–1997",
     "era": "Tests",
-    "one": "British psychologist",
-    "hold": "Hans Jürgen Eysenck was a German-born British psychologist.",
+    "one": "Personality as dimensions: extraversion, neuroticism, psychoticism.",
+    "hold": "Personality as dimensions: extraversion, neuroticism, psychoticism.",
     "clues": [
-      "I am best remembered for his work on intelligence and personality, although he worked on other issues in psychology.",
-      "I am often described as british psychologist.",
-      "Examiners still ask this name as a one-line identification."
+      "I was a British psychologist who reduced personality to a few scored dimensions.",
+      "Extraversion and neuroticism are the two everyone still names.",
+      "I also wrote controversially about intelligence and about whether therapy works."
     ],
-    "also": "I am best remembered for his work on intelligence and personality, although he worked on other issues in psychology.",
+    "also": "Jung used extravert too. This man made questionnaires.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans_Eysenck_%28cropped%29.jpg/500px-Hans_Eysenck_%28cropped%29.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Hans_Eysenck",
     "has_photo": true,
-    "hook": "British psychologist",
+    "hook": "Personality as dimensions: extraversion, neuroticism, psychoticism.",
     "remember": [
-      "best remembered for his work on intelligence and personality, although he worked on other issues in psychology"
+      "PEN model.",
+      "Also intelligence and a contested therapy paper.",
+      "Some later work is heavily criticised."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Jung used extravert too. This man made questionnaires.",
+    "pair": "Cattell, Jung."
   },
   {
     "id": "albert-bandura",
@@ -2711,24 +2780,25 @@ window.WHO = [
     "name": "Anna Freud",
     "years": "1895–1982",
     "era": "Therapy",
-    "one": "austrian-British psychoanalyst",
-    "hold": "I was a British psychoanalyst of Austrian Jewish descent.",
+    "one": "The child's ego. Defence mechanisms as a list you still recite.",
+    "hold": "The child's ego. Defence mechanisms as a list you still recite.",
     "clues": [
-      "I was a British psychoanalyst of Austrian Jewish descent.",
-      "I was born in Vienna, the sixth and youngest child of Sigmund this person and Martha Bernays.",
-      "I am often described as austrian-British psychoanalyst."
+      "I was a psychoanalyst of children, born in Vienna and later working in London.",
+      "I wrote The Ego and the Mechanisms of Defence.",
+      "My father founded psychoanalysis."
     ],
-    "also": "I was born in Vienna, the sixth and youngest child of Sigmund Freud and Martha Bernays.",
+    "also": "Klein used play and very early fantasy. This woman protected the child's ego.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anna_Freud_1957.jpg/500px-Anna_Freud_1957.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Anna_Freud",
     "has_photo": true,
-    "hook": "Austrian-British psychoanalyst",
+    "hook": "The child's ego. Defence mechanisms as a list you still recite.",
     "remember": [
-      "austrian-British psychoanalyst",
-      "born in Vienna, the sixth and youngest child of Sigmund Freud and Martha Bernays"
+      "The Ego and the Mechanisms of Defence.",
+      "Child analysis with more support and education than Klein.",
+      "Youngest child of Sigmund."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Klein used play and very early fantasy. This woman protected the child's ego.",
+    "pair": "Sigmund Freud, Klein."
   },
   {
     "id": "carl-jung",
@@ -2785,24 +2855,25 @@ window.WHO = [
     "name": "Donald Winnicott",
     "years": "1896–1971",
     "era": "Therapy",
-    "one": "British pediatric psychiatrist and psychoanalyst",
-    "hold": "I was an English paediatrician and psychoanalyst who was especially influential in the field of object relations theory and developmental psychology.",
+    "one": "Good-enough mother. Transitional object. True and false self.",
+    "hold": "Good-enough mother. Transitional object. True and false self.",
     "clues": [
-      "I was an English paediatrician and psychoanalyst who was especially influential in the field of object relations theory and developmental psychology.",
-      "I was a leading member of the British Independent Group of the British Psychoanalytical Society, President of the British Psychoanalytical Society twice, and a close associate of British writer and psychoanalyst Marion Milner.",
-      "I am often described as british pediatric psychiatrist and psychoanalyst."
+      "I was an English paediatrician and psychoanalyst.",
+      "I wrote about a good-enough mother and a holding environment.",
+      "I also described the child's first not-me object, such as a blanket."
     ],
-    "also": "I was a leading member of the British Independent Group of the British Psychoanalytical Society, President of the British Psychoanalytical Society twice, and a close associate of British writer and psychoanalyst Marion Milner.",
+    "also": "Klein is harsher inner objects. This man is ordinary devoted care.",
     "img": "",
     "wiki": "https://en.wikipedia.org/wiki/Donald_Winnicott",
     "has_photo": false,
-    "hook": "British pediatric psychiatrist and psychoanalyst",
+    "hook": "Good-enough mother. Transitional object. True and false self.",
     "remember": [
-      "British pediatric psychiatrist and psychoanalyst",
-      "a leading member of the British Independent Group of the British Psychoanalytical Society, President of the British Psychoanalytical Society twice, and a close "
+      "British Independent group.",
+      "Holding environment.",
+      "The teddy / blanket as the first not-me possession."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Klein is harsher inner objects. This man is ordinary devoted care.",
+    "pair": "Klein, Bion."
   },
   {
     "id": "emil-kraepelin",
@@ -2886,72 +2957,75 @@ window.WHO = [
     "name": "Heinz Kohut",
     "years": "1913–1981",
     "era": "Therapy",
-    "one": "Austrian-American psychoanalyst and psychiatrist",
-    "hold": "I was an Austrian-born American psychoanalyst best known for his development of self psychology, an influential school of thought within psychodynamic/psychoanalytic theory which helped transform the modern practice of analytic and dynamic treatment approaches.",
+    "one": "Self psychology. Mirroring, idealising, twinship.",
+    "hold": "Self psychology. Mirroring, idealising, twinship.",
     "clues": [
-      "I was an Austrian-born American psychoanalyst best known for his development of self psychology, an influential school of thought within psychodynamic/psychoanalytic theory which helped transform the modern practice of analytic and dynamic treatment approaches.",
-      "I am often described as austrian-American psychoanalyst and psychiatrist.",
-      "Examiners still ask this name."
+      "I was an Austrian-American psychoanalyst.",
+      "I wrote about the self needing to be mirrored and to have someone to idealise.",
+      "My school is called self psychology."
     ],
-    "also": "I am often described as austrian-American psychoanalyst and psychiatrist.",
+    "also": "Kernberg is harsher on narcissism and borderline. This man is self-deficits.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Heinz_Kohut_dust_jacket_author_photo_%281971%29.jpg/500px-Heinz_Kohut_dust_jacket_author_photo_%281971%29.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Heinz_Kohut",
     "has_photo": true,
-    "hook": "Austrian-American psychoanalyst and psychiatrist",
+    "hook": "Self psychology. Mirroring, idealising, twinship.",
     "remember": [
-      "Austrian-American psychoanalyst and psychiatrist",
-      "austrian-American psychoanalyst and psychiatrist"
+      "Narcissism as a developmental line, not only a dirty word.",
+      "Empathic immersion.",
+      "Chicago."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Kernberg is harsher on narcissism and borderline. This man is self-deficits.",
+    "pair": "Kernberg, Freud."
   },
   {
     "id": "irvin-d-yalom",
     "name": "Irvin D. Yalom",
     "years": "",
     "era": "Therapy",
-    "one": "American psychotherapist and writer",
-    "hold": "I am an American existential psychiatrist who is an emeritus professor of psychiatry at Stanford University, as well as author of both fiction and nonfiction.",
+    "one": "Group therapy as eleven factors. Existential givens.",
+    "hold": "Group therapy as eleven factors. Existential givens.",
     "clues": [
-      "I am an American existential psychiatrist who is an emeritus professor of psychiatry at Stanford University, as well as author of both fiction and nonfiction.",
-      "I am often described as american psychotherapist and writer.",
-      "Examiners still ask this name."
+      "I am an American existential psychiatrist who taught at Stanford.",
+      "I listed the useful factors in group therapy.",
+      "I also wrote novels that teach psychotherapy."
     ],
-    "also": "I am often described as american psychotherapist and writer.",
+    "also": "Frankl is meaning after camps. This man is group process and novels too.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yalom.jpg/500px-Yalom.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Irvin_D._Yalom",
     "has_photo": true,
-    "hook": "American psychotherapist and writer",
+    "hook": "Group therapy as eleven factors. Existential givens.",
     "remember": [
-      "American psychotherapist and writer",
-      "american psychotherapist and writer"
+      "The Theory and Practice of Group Psychotherapy.",
+      "Death, freedom, isolation, meaninglessness.",
+      "Stanford."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Frankl is meaning after camps. This man is group process and novels too.",
+    "pair": "Frankl, May."
   },
   {
     "id": "jacques-lacan",
     "name": "Jacques Lacan",
     "years": "1901–1981",
     "era": "Therapy",
-    "one": "French psychoanalyst and writer",
-    "hold": "Jacques Marie Émile Lacan was a French psychoanalyst and psychiatrist.",
+    "one": "The most argued-about analyst after Freud. The unconscious is structured like a language.",
+    "hold": "The most argued-about analyst after Freud. The unconscious is structured like a language.",
     "clues": [
-      "Described as \"the most controversial psycho-analyst since Freud\", this person gave annual seminars in Paris from 1952 to 1980 and published papers that were later collected in the book Écrits.",
-      "I am often described as french psychoanalyst and writer.",
-      "Examiners still ask this name as a one-line identification."
+      "I gave yearly seminars in Paris for decades.",
+      "I said the unconscious is structured like a language.",
+      "People still call me the most controversial psychoanalyst since Freud."
     ],
-    "also": "Described as \"the most controversial psycho-analyst since Freud\", Lacan gave annual seminars in Paris from 1952 to 1980 and published papers that were later collected in the book Écrits.",
+    "also": "Do not mix him up with Klein (objects) or Kohut (self).",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/25/Jacques_Lacan_during_an_interview_1969.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Jacques_Lacan",
     "has_photo": true,
-    "hook": "French psychoanalyst and writer",
+    "hook": "The most argued-about analyst after Freud. The unconscious is structured like a language.",
     "remember": [
-      "French psychoanalyst and writer",
-      "Described as \"the most controversial psycho-analyst since Freud\", Lacan gave annual seminars in Paris from 1952 to 1980 and published papers that were later col"
+      "Mirror stage.",
+      "Annual Paris seminars.",
+      "Not a first-line exam mechanism — asked as a name."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Do not mix him up with Klein (objects) or Kohut (self).",
+    "pair": "Freud."
   },
   {
     "id": "john-bowlby",
@@ -2983,23 +3057,25 @@ window.WHO = [
     "name": "Karl Abraham",
     "years": "1877–1925",
     "era": "Therapy",
-    "one": "German psychoanalyst",
-    "hold": "I was an influential German psychoanalyst, and a collaborator of Sigmund Freud, who called him his 'best pupil'.",
+    "one": "Freud called him his best pupil. Stages of libido and melancholy.",
+    "hold": "Freud called him his best pupil. Stages of libido and melancholy.",
     "clues": [
-      "I was an influential German psychoanalyst, and a collaborator of Sigmund Freud, who called him his 'best pupil'.",
-      "I am often described as german psychoanalyst.",
-      "Examiners still ask this name."
+      "Freud called me his best pupil.",
+      "I worked in Berlin and wrote on melancholy and on early developmental stages.",
+      "Melanie Klein learned from this line."
     ],
-    "also": "I am often described as german psychoanalyst.",
+    "also": "Not Adler (who left). This man stayed loyal and built technique.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Karl_Abraham.jpg/500px-Karl_Abraham.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Karl_Abraham",
     "has_photo": true,
-    "hook": "German psychoanalyst",
+    "hook": "Freud called him his best pupil. Stages of libido and melancholy.",
     "remember": [
-      "german psychoanalyst"
+      "Berlin school.",
+      "Oral/anal elaborations.",
+      "Influenced Klein."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Not Adler (who left). This man stayed loyal and built technique.",
+    "pair": "Freud, Klein."
   },
   {
     "id": "karl-leonhard",
@@ -3057,48 +3133,50 @@ window.WHO = [
     "name": "Melanie Klein",
     "years": "1882–1960",
     "era": "Therapy",
-    "one": "British Austrian born psychoanalyst",
-    "hold": "I was an Austrian-British author and psychoanalyst known for her work in child analysis.",
+    "one": "The infant already has a harsh inner world. Play is the analysis.",
+    "hold": "The infant already has a harsh inner world. Play is the analysis.",
     "clues": [
-      "I was an Austrian-British author and psychoanalyst known for her work in child analysis.",
-      "I was the primary figure in the development of object relations theory.",
-      "I am often described as british Austrian born psychoanalyst."
+      "I was an Austrian-British psychoanalyst of children.",
+      "I treated play as the equivalent of free association.",
+      "I described an early harsh position and a later depressive one."
     ],
-    "also": "I was the primary figure in the development of object relations theory.",
+    "also": "Anna Freud analysed children differently (ego, education). This woman used play and very early fantasy.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Melanie_Klein_1952.jpg/500px-Melanie_Klein_1952.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Melanie_Klein",
     "has_photo": true,
-    "hook": "British Austrian born psychoanalyst",
+    "hook": "The infant already has a harsh inner world. Play is the analysis.",
     "remember": [
-      "British Austrian born psychoanalyst",
-      "the primary figure in the development of object relations theory"
+      "Object relations.",
+      "Paranoid-schizoid and depressive positions.",
+      "Child analysis through play."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Anna Freud analysed children differently (ego, education). This woman used play and very early fantasy.",
+    "pair": "Anna Freud, Winnicott, Bion."
   },
   {
     "id": "otto-f-kernberg",
     "name": "Otto F. Kernberg",
     "years": "",
     "era": "Therapy",
-    "one": "Austrian psychoanalyst and psychologist",
-    "hold": "I am an Austrian-born American psychoanalyst and professor of psychiatry at Weill Cornell Medicine, known for developing transference-focused psychotherapy (TFP).",
+    "one": "Borderline organisation. Splitting. Transference-focused therapy.",
+    "hold": "Borderline organisation. Splitting. Transference-focused therapy.",
     "clues": [
-      "I am an Austrian-born American psychoanalyst and professor of psychiatry at Weill Cornell Medicine, known for developing transference-focused psychotherapy (TFP).",
-      "I am recognized internationally for his contributions to the psychoanalytic theories on borderline personality organization and narcissistic pathology.",
-      "I am often described as austrian psychoanalyst and psychologist."
+      "I am an Austrian-American psychoanalyst at Cornell.",
+      "I described borderline personality as an organisation, not only a list of behaviours.",
+      "Splitting and identity diffusion are my usual viva words."
     ],
-    "also": "I am recognized internationally for his contributions to the psychoanalytic theories on borderline personality organization and narcissistic pathology.",
+    "also": "Linehan is DBT skills. This man is psychoanalytic structure.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Otto_F._Kernberg%2C_MD.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Otto_F._Kernberg",
     "has_photo": true,
-    "hook": "Austrian psychoanalyst and psychologist",
+    "hook": "Borderline organisation. Splitting. Transference-focused therapy.",
     "remember": [
-      "Austrian psychoanalyst and psychologist",
-      "recognized internationally for his contributions to the psychoanalytic theories on borderline personality organization and narcissistic pathology"
+      "Identity diffusion, primitive defences, reality testing kept.",
+      "Narcissistic and borderline as organisations.",
+      "TFP."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Linehan is DBT skills. This man is psychoanalytic structure.",
+    "pair": "Linehan, Kohut."
   },
   {
     "id": "pierre-janet",
@@ -3130,24 +3208,25 @@ window.WHO = [
     "name": "Rollo May",
     "years": "1909–1994",
     "era": "Therapy",
-    "one": "American psychologist",
-    "hold": "I was an American existential psychologist and author of the influential book Love and Will.",
+    "one": "American existential therapist. Love and Will.",
+    "hold": "American existential therapist. Love and Will.",
     "clues": [
-      "I was an American existential psychologist and author of the influential book Love and Will.",
-      "I am often associated with humanistic psychology and existentialist philosophy, and alongside Viktor Frankl, was a major proponent of existential psychotherapy.",
-      "I am often described as american psychologist."
+      "I was an American existential psychologist.",
+      "I wrote Love and Will.",
+      "I treated anxiety as part of being a person, not only as a symptom to remove."
     ],
-    "also": "I am often associated with humanistic psychology and existentialist philosophy, and alongside Viktor Frankl, was a major proponent of existential psychotherapy.",
+    "also": "Rogers is UPR. This man is anxiety and will.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rollo_May_USD_Alcal%C3%A1_1977.jpg/500px-Rollo_May_USD_Alcal%C3%A1_1977.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Rollo_May",
     "has_photo": true,
-    "hook": "American psychologist",
+    "hook": "American existential therapist. Love and Will.",
     "remember": [
-      "American psychologist",
-      "often associated with humanistic psychology and existentialist philosophy, and alongside Viktor Frankl, was a major proponent of existential psychotherapy"
+      "Anxiety as part of being human.",
+      "Alongside Frankl in existential therapy.",
+      "Humanistic neighbourhood."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Rogers is UPR. This man is anxiety and will.",
+    "pair": "Frankl, Yalom."
   },
   {
     "id": "sigmund-freud",
@@ -3180,48 +3259,50 @@ window.WHO = [
     "name": "Sándor Ferenczi",
     "years": "1873–1933",
     "era": "Therapy",
-    "one": "Hungarian psychoanalyst",
-    "hold": "I was a Hungarian psychoanalyst.",
+    "one": "Freud's close colleague who took trauma and technique further than Vienna liked.",
+    "hold": "Freud's close colleague who took trauma and technique further than Vienna liked.",
     "clues": [
-      "I was a Hungarian psychoanalyst.",
-      "I am often described as hungarian psychoanalyst.",
-      "Examiners still ask this name as a one-line identification."
+      "I was a Hungarian psychoanalyst and a close colleague of Freud.",
+      "I wrote about trauma and about how adults confuse a child's tenderness with adult sexuality.",
+      "My later technique made the Vienna group uneasy."
     ],
-    "also": "Ferenczi was a key theorist of the psychoanalytic school and a close associate of Sigmund Freud.",
+    "also": "Abraham stayed orthodox. This man pushed the edges.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FerencziS%C3%A1ndor.jpg/500px-FerencziS%C3%A1ndor.jpg",
     "wiki": "https://en.wikipedia.org/wiki/S%C3%A1ndor_Ferenczi",
     "has_photo": true,
-    "hook": "Hungarian psychoanalyst",
+    "hook": "Freud's close colleague who took trauma and technique further than Vienna liked.",
     "remember": [
-      "Hungarian psychoanalyst",
-      "Ferenczi was a key theorist of the psychoanalytic school and a close associate of Sigmund Freud"
+      "Hungarian.",
+      "Active technique, mutual analysis — controversial.",
+      "Confusion of tongues (adult sexualisation of the child)."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Abraham stayed orthodox. This man pushed the edges.",
+    "pair": "Freud, Abraham."
   },
   {
     "id": "thomas-szasz",
     "name": "Thomas Szasz",
     "years": "1920–2012",
     "era": "Therapy",
-    "one": "Hungarian psychiatrist",
-    "hold": "I was a Hungarian-American academic and psychiatrist.",
+    "one": "Mental illness is a myth. Problems in living, not diseases.",
+    "hold": "Mental illness is a myth. Problems in living, not diseases.",
     "clues": [
-      "I was a Hungarian-American academic and psychiatrist.",
-      "He served for most of his career as professor of psychiatry at the State University of New York Upstate Medical University.",
-      "I am often described as hungarian psychiatrist."
+      "I was a Hungarian-American professor of psychiatry.",
+      "In 1961 I published a book calling mental illness a myth.",
+      "I argued for problems in living rather than diseases of the brain."
     ],
-    "also": "He served for most of his career as professor of psychiatry at the State University of New York Upstate Medical University.",
+    "also": "Laing tried to understand madness. This man denied it was illness.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dr_Thomas_S_Szasz_%28cropped%29.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Thomas_Szasz",
     "has_photo": true,
-    "hook": "Hungarian psychiatrist",
+    "hook": "Mental illness is a myth. Problems in living, not diseases.",
     "remember": [
-      "Hungarian psychiatrist",
-      "He served for most of his career as professor of psychiatry at the State University of New York Upstate Medical University"
+      "The Myth of Mental Illness, 1961.",
+      "Against involuntary treatment as a default.",
+      "Hungarian-American, Syracuse."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Laing tried to understand madness. This man denied it was illness.",
+    "pair": "Laing, Basaglia."
   },
   {
     "id": "viktor-frankl",
@@ -3254,23 +3335,24 @@ window.WHO = [
     "name": "Wilfred Bion",
     "years": "1897–1979",
     "era": "Therapy",
-    "one": "British psychoanalyst & psychiatrist",
-    "hold": "I was an influential English psychoanalyst, who became president of the British Psychoanalytical Society from 1962 to 1965.",
+    "one": "The group has a mind. Container and contained.",
+    "hold": "The group has a mind. Container and contained.",
     "clues": [
-      "I was an influential English psychoanalyst, who became president of the British Psychoanalytical Society from 1962 to 1965.",
-      "I am often described as british psychoanalyst & psychiatrist.",
-      "Examiners still ask this name."
+      "I was a British psychoanalyst and a former tank officer.",
+      "I wrote Experiences in Groups.",
+      "I described basic-assumption life: fight-flight, pairing and dependency."
     ],
-    "also": "I am often described as british psychoanalyst & psychiatrist.",
+    "also": "Yalom lists useful group factors. This man describes the group's unconscious.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/WRBion.jpg",
     "wiki": "https://en.wikipedia.org/wiki/Wilfred_Bion",
     "has_photo": true,
-    "hook": "British psychoanalyst & psychiatrist",
+    "hook": "The group has a mind. Container and contained.",
     "remember": [
-      "British psychoanalyst & psychiatrist",
-      "british psychoanalyst & psychiatrist"
+      "Experiences in Groups.",
+      "Basic assumptions: fight-flight, pairing, dependency.",
+      "Psychotic thinking in the individual too."
     ],
-    "trap": "Do not confuse this name with a nearby eponym in the same era.",
-    "pair": "Open the card and link one nearby name."
+    "trap": "Yalom lists useful group factors. This man describes the group's unconscious.",
+    "pair": "Klein, Yalom."
   }
 ];
