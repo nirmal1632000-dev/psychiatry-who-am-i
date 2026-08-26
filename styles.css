@@ -131,12 +131,24 @@ h1 {
   align-items: start;
 }
 .reveal.show { display: grid; }
-.hold {
+.note-hook {
   font-family: "Source Serif 4", Georgia, serif;
-  font-size: 18px;
-  line-height: 1.4;
-  margin: 6px 0 10px;
+  font-size: 20px;
+  line-height: 1.35;
+  background: #f3efe4;
+  border: 1px solid var(--line);
+  padding: 12px 14px;
+  margin: 8px 0 14px;
 }
+.note-grid { display: grid; gap: 10px; }
+.note-box { border: 1px solid var(--line); background: var(--paper); padding: 10px 12px; }
+.note-box h3 { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 0 0 6px; }
+.note-box ul { margin: 0 0 0 18px; }
+.note-box li { margin: 3px 0; line-height: 1.4; }
+.note-box.trap { border-color: #e2c2c2; }
+.note-box.pair { border-color: #c9d4e0; }
+.reveal { grid-template-columns: 140px 1fr; }
+.detail.on { grid-template-columns: 180px 1fr; }
 .muted { color: var(--muted); font-size: 15px; line-height: 1.5; }
 .credit { color: var(--muted); font-size: 12px; margin-top: 10px; }
 #q {

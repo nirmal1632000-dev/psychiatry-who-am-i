@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Who am I — Psychiatry</title>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=4" />
+  <link rel="stylesheet" href="styles.css?v=5" />
 </head>
 <body>
   <header class="top">
@@ -38,7 +38,7 @@
     </div>
     <div class="reveal" id="reveal"></div>
   </div>
-  <script src="people.js?v=4"></script>
+  <script src="people.js?v=5"></script>
   <script>
     const PEOPLE = window.WHO || [];
     const $ = (id) => document.getElementById(id);
@@ -111,15 +111,19 @@
         else if (raw && b.textContent.indexOf(raw)!==-1 && !ok) b.classList.add("bad");
       });
       $("reveal").className = "reveal show";
+      const rec = (p.remember || []).map(x => "<li>"+x+"</li>").join("");
       $("reveal").innerHTML =
         portrait(p)+
-        '<div><p class="k">'+(ok?"Correct":"Not this time")+'</p>'+
-        '<h2 style="font-family:\'Source Serif 4\',Georgia,serif;font-size:28px;font-weight:600;margin:4px 0">'+p.name+' <span class="muted" style="font-size:16px">'+p.years+'</span></h2>'+
-        '<p class="hold">'+p.one+'</p>'+
-        '<p class="muted">'+p.also+'</p>'+
-        (p.wiki ? '<p class="credit">Portrait from Wikimedia Commons when shown. <a href="'+p.wiki+'" target="_blank" rel="noopener">Read more</a></p>' :
-          '<p class="credit">No free public photograph, so initials are used.</p>')+
-        '<div class="row"><button class="btn primary" id="nxt">Next</button><a class="btn" href="people.html#'+p.id+'">Open card</a></div></div>';
+        '<div><p class="k">'+(ok?"Correct":"Not this time")+' · '+p.era+'</p>'+
+        '<h2 style="font-family:\'Source Serif 4\',Georgia,serif;font-size:28px;font-weight:600;margin:4px 0">'+p.name+' <span class="muted" style="font-size:16px">'+(p.years||"")+'</span></h2>'+
+        '<div class="note-hook">'+(p.hook || p.one)+'</div>'+
+        '<div class="note-grid">'+
+          '<div class="note-box"><h3>Hold these</h3><ul>'+rec+'</ul></div>'+
+          (p.trap ? '<div class="note-box trap"><h3>Don\'t mix</h3><p>'+p.trap+'</p></div>' : '')+
+          (p.pair ? '<div class="note-box pair"><h3>Pair with</h3><p>'+p.pair+'</p></div>' : '')+
+        '</div>'+
+        (p.wiki ? '<p class="credit"><a href="'+p.wiki+'" target="_blank" rel="noopener">Longer article</a></p>' : '')+
+        '<div class="row"><button class="btn primary" id="nxt">Next</button><a class="btn" href="people.html#'+p.id+'">Open full card</a></div></div>';
       document.getElementById("nxt").onclick = next;
       $("score").textContent = state.ok+" correct · "+state.n+" tried";
     }

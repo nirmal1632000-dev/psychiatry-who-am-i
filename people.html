@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>People — Psychiatry</title>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=4" />
+  <link rel="stylesheet" href="styles.css?v=5" />
 </head>
 <body>
   <header class="top">
@@ -17,7 +17,7 @@
   </header>
   <div class="wrap people-wrap">
     <h1>People</h1>
-    <p class="lead">Short cards on names that come up in a psychiatry quiz. Search a person or an idea. A portrait is shown only when a free public photograph exists.</p>
+    <p class="lead">One hook, a few bullets, one mix-up, one pair. Built so a tired resident can hold the name. Search a person or an idea.</p>
     <div class="row">
       <input id="q" placeholder="Search — Beck, lithium, autism, Pavlov" />
       <span class="stat" id="count"></span>
@@ -27,7 +27,7 @@
     <div class="grid" id="grid"></div>
     <p class="credit" style="margin-top:28px">Notes are adapted from public encyclopedic summaries for study. Portraits from Wikimedia Commons. Not clinical advice.</p>
   </div>
-  <script src="people.js?v=4"></script>
+  <script src="people.js?v=5"></script>
   <script>
     const PEOPLE = window.WHO || [];
     const labels = [...new Set(PEOPLE.map(p => p.era))].sort();
@@ -39,7 +39,7 @@
       return PEOPLE.filter(p=>{
         if (era!=="all" && p.era!==era) return false;
         if (!s) return true;
-        return (p.name+" "+p.one+" "+p.hold+" "+p.clues.join(" ")+" "+p.also).toLowerCase().includes(s);
+        return (p.name+" "+(p.hook||"")+" "+(p.trap||"")+" "+(p.pair||"")+" "+(p.remember||[]).join(" ")+" "+(p.clues||[]).join(" ")).toLowerCase().includes(s);
       });
     }
     function paint(){
@@ -57,17 +57,21 @@
       const el = document.getElementById("detail");
       if (!p){ el.className="detail"; el.innerHTML=""; return; }
       el.className="detail on";
+      const rec = (p.remember || []).map(x => "<li>"+x+"</li>").join("");
       el.innerHTML = `
         ${p.has_photo?'<img class="face" style="width:180px;height:230px" alt="'+p.name+'" src="'+p.img+'">':'<div class="mono" style="width:180px;height:230px">'+initials(p)+'</div>'}
         <div>
           <p class="k">${p.era}${p.years ? " · " + p.years : ""}</p>
           <h2 style="font-family:'Source Serif 4',Georgia,serif;font-size:32px;font-weight:600;margin:4px 0 8px">${p.name}</h2>
-          <p class="hold">${p.one}</p>
-          <p class="muted">${p.also}</p>
-          <ol class="muted" style="margin:12px 0 0 18px">${p.clues.map(c=>"<li>"+c+"</li>").join("")}</ol>
+          <div class="note-hook">${p.hook || p.one || ""}</div>
+          <div class="note-grid">
+            <div class="note-box"><h3>Hold these</h3><ul>${rec}</ul></div>
+            ${p.trap ? '<div class="note-box trap"><h3>Don\'t mix</h3><p>'+p.trap+'</p></div>' : ''}
+            ${p.pair ? '<div class="note-box pair"><h3>Pair with</h3><p>'+p.pair+'</p></div>' : ''}
+          </div>
           <div class="row">
             <a class="btn primary" href="index.html">Play Who am I</a>
-            ${p.wiki?'<a class="btn" href="'+p.wiki+'" target="_blank" rel="noopener">Read more</a>':''}
+            ${p.wiki?'<a class="btn" href="'+p.wiki+'" target="_blank" rel="noopener">Longer article</a>':''}
           </div>
         </div>`;
       el.scrollIntoView({behavior:"smooth",block:"start"});
